@@ -1,0 +1,1001 @@
+OrderID,EquipmentID,EquipmentType,OrderType,Priority,CreationDate,FinishDate,Status,DowntimeHours,EstimatedCost,ActualCost,MaintenanceGroup,Description,AgeDays
+1,COLH-039,Colhedora,Preventiva,4,2024-09-29,2024-10-03,Concluída,4.11,6697.72,6592.89,Hidráulica,Manutenção programada,4
+2,COLH-029,Colhedora,Preventiva,1,2024-04-08,2024-04-26,Concluída,1.05,5172.28,4717.86,Mecânica,Manutenção programada,18
+3,COLH-015,Colhedora,Preventiva,5,2024-09-08,2024-10-06,Concluída,4.13,5737.81,7021.3,Hidráulica,Manutenção programada,28
+4,COLH-043,Colhedora,Corretiva,3,2024-12-03,2024-12-14,Concluída,7.8,3035.55,3159.11,Mecânica,Falha inesperada,11
+5,COLH-008,Colhedora,Preventiva,2,2024-04-13,2024-04-18,Concluída,3.13,5348.32,5799.929999999999,Hidráulica,Manutenção programada,5
+6,COLH-021,Colhedora,Corretiva,3,2024-08-01,2024-08-16,Em execução,5.16,3986.62,4793.57,Mecânica,Falha inesperada,15
+7,COLH-039,Colhedora,Preventiva,2,2024-09-05,2024-10-03,Em execução,1.19,5711.95,4848.12,Mecânica,Manutenção programada,28
+8,COLH-019,Colhedora,Corretiva,3,2024-05-31,2024-06-18,Em execução,8.32,7200.74,7003.66,Mecânica,Falha inesperada,18
+9,COLH-023,Colhedora,Preventiva,2,2024-09-06,2024-09-08,Concluída,3.55,5434.28,6532.09,Elétrica,Manutenção programada,2
+10,COLH-011,Colhedora,Preventiva,4,2024-10-01,2024-10-23,Em execução,3.7,3648.72,3510.25,Hidráulica,Manutenção programada,22
+11,COLH-011,Colhedora,Preventiva,2,2024-06-13,2024-06-24,Concluída,3.59,5939.7,4868.79,Mecânica,Manutenção programada,11
+12,COLH-024,Colhedora,Corretiva,2,2024-12-06,2025-01-01,Concluída,9.1,5602.68,5180.87,Elétrica,Falha inesperada,26
+13,COLH-036,Colhedora,Corretiva,1,2024-01-08,2024-02-02,Concluída,5.23,8087.9,8158.889999999999,Mecânica,Falha inesperada,25
+14,COLH-040,Colhedora,Preventiva,2,2024-10-10,2024-10-23,Em execução,3.77,5380.95,5814.36,Elétrica,Manutenção programada,13
+15,COLH-024,Colhedora,Corretiva,1,2024-01-05,2024-01-09,Aberta,4.89,4121.79,4365.14,Mecânica,Falha inesperada,4
+16,COLH-003,Colhedora,Preventiva,5,2024-05-24,2024-06-15,Aberta,4.11,6155.96,5964.59,Mecânica,Manutenção programada,22
+17,COLH-022,Colhedora,Preventiva,1,2024-04-10,2024-04-17,Concluída,2.92,4808.48,5859.929999999999,Elétrica,Manutenção programada,7
+18,COLH-002,Colhedora,Corretiva,4,2024-06-12,2024-07-11,Concluída,7.85,5120.38,5317.13,Elétrica,Falha inesperada,29
+19,COLH-024,Colhedora,Preventiva,1,2024-05-26,2024-06-06,Em execução,3.87,3607.29,4074.81,Hidráulica,Manutenção programada,11
+20,COLH-044,Colhedora,Corretiva,5,2024-03-04,2024-03-26,Em execução,11.0,4816.35,4667.59,Hidráulica,Falha inesperada,22
+21,COLH-030,Colhedora,Preventiva,4,2024-03-31,2024-04-24,Em execução,3.77,5046.21,6553.360000000001,Elétrica,Manutenção programada,24
+22,COLH-038,Colhedora,Preventiva,3,2024-04-26,2024-04-30,Em execução,2.18,4807.48,4794.179999999999,Hidráulica,Manutenção programada,4
+23,COLH-002,Colhedora,Corretiva,3,2024-12-19,2025-01-16,Concluída,10.29,4113.67,4473.42,Elétrica,Falha inesperada,28
+24,COLH-021,Colhedora,Corretiva,1,2024-09-23,2024-10-08,Concluída,5.56,5432.34,6560.34,Hidráulica,Falha inesperada,15
+25,COLH-033,Colhedora,Preventiva,1,2024-11-05,2024-11-06,Concluída,3.79,3614.79,4138.82,Mecânica,Manutenção programada,1
+26,COLH-012,Colhedora,Corretiva,5,2024-06-21,2024-07-14,Concluída,3.72,3261.51,3765.5800000000004,Hidráulica,Falha inesperada,23
+27,COLH-022,Colhedora,Corretiva,5,2024-02-16,2024-02-19,Em execução,7.72,6064.3,4785.38,Mecânica,Falha inesperada,3
+28,COLH-044,Colhedora,Corretiva,2,2024-05-19,2024-06-02,Concluída,5.54,5926.63,6771.14,Mecânica,Falha inesperada,14
+29,COLH-025,Colhedora,Corretiva,5,2024-09-02,2024-09-08,Concluída,10.61,3038.59,3383.0600000000004,Hidráulica,Falha inesperada,6
+30,COLH-049,Colhedora,Corretiva,2,2024-05-28,2024-06-15,Concluída,11.35,2255.67,2988.92,Elétrica,Falha inesperada,18
+31,COLH-027,Colhedora,Corretiva,4,2024-09-02,2024-09-27,Concluída,8.6,3486.89,3933.46,Mecânica,Falha inesperada,25
+32,COLH-042,Colhedora,Corretiva,1,2024-01-05,2024-01-06,Em execução,8.5,4807.55,4660.22,Mecânica,Falha inesperada,1
+33,COLH-028,Colhedora,Preventiva,4,2024-07-02,2024-07-08,Em execução,3.7,6731.52,7746.97,Hidráulica,Manutenção programada,6
+34,COLH-016,Colhedora,Corretiva,5,2024-01-20,2024-01-26,Em execução,11.36,4770.88,5229.38,Elétrica,Falha inesperada,6
+35,COLH-015,Colhedora,Corretiva,4,2024-02-15,2024-03-07,Concluída,8.11,3845.96,3114.45,Elétrica,Falha inesperada,21
+36,COLH-047,Colhedora,Corretiva,4,2024-01-12,2024-01-28,Concluída,6.5,5222.88,6569.6900000000005,Hidráulica,Falha inesperada,16
+37,COLH-044,Colhedora,Corretiva,4,2024-03-10,2024-04-08,Concluída,9.94,4828.98,3984.5999999999995,Elétrica,Falha inesperada,29
+38,COLH-003,Colhedora,Corretiva,5,2024-01-17,2024-01-22,Concluída,2.42,2928.49,3949.2299999999996,Hidráulica,Falha inesperada,5
+39,COLH-037,Colhedora,Corretiva,4,2024-05-26,2024-06-12,Concluída,10.73,2937.41,4426.96,Hidráulica,Falha inesperada,17
+40,COLH-007,Colhedora,Preventiva,2,2024-06-02,2024-06-12,Concluída,2.29,2977.7,2392.66,Hidráulica,Manutenção programada,10
+41,COLH-021,Colhedora,Corretiva,5,2024-10-30,2024-11-27,Em execução,7.28,8719.78,8921.570000000002,Mecânica,Falha inesperada,28
+42,COLH-009,Colhedora,Preventiva,4,2024-04-17,2024-05-08,Concluída,3.92,6289.97,6417.21,Mecânica,Manutenção programada,21
+43,COLH-039,Colhedora,Preventiva,5,2024-08-23,2024-09-10,Em execução,2.58,4109.43,4272.650000000001,Mecânica,Manutenção programada,18
+44,COLH-018,Colhedora,Corretiva,3,2024-11-03,2024-11-10,Concluída,9.94,6662.4,8426.59,Hidráulica,Falha inesperada,7
+45,COLH-004,Colhedora,Preventiva,2,2024-12-17,2024-12-20,Concluída,4.14,4147.92,3572.1400000000003,Mecânica,Manutenção programada,3
+46,COLH-025,Colhedora,Preventiva,4,2024-03-10,2024-03-23,Em execução,3.11,6612.77,6667.52,Mecânica,Manutenção programada,13
+47,COLH-014,Colhedora,Corretiva,3,2024-07-01,2024-07-16,Concluída,8.93,5120.46,6623.12,Mecânica,Falha inesperada,15
+48,COLH-009,Colhedora,Corretiva,3,2024-09-06,2024-09-26,Concluída,7.64,4011.72,4053.3599999999997,Hidráulica,Falha inesperada,20
+49,COLH-026,Colhedora,Preventiva,5,2024-08-15,2024-09-03,Concluída,3.12,6019.73,5571.11,Hidráulica,Manutenção programada,19
+50,COLH-002,Colhedora,Preventiva,3,2024-04-11,2024-04-14,Concluída,1.88,5206.28,5716.69,Hidráulica,Manutenção programada,3
+51,COLH-020,Colhedora,Corretiva,2,2024-03-15,2024-03-19,Concluída,7.12,5597.4,6541.91,Mecânica,Falha inesperada,4
+52,COLH-028,Colhedora,Preventiva,2,2024-08-03,2024-08-08,Aberta,1.71,5323.26,5308.99,Elétrica,Manutenção programada,5
+53,COLH-047,Colhedora,Preventiva,1,2024-07-21,2024-07-22,Em execução,2.1,5307.52,6051.01,Mecânica,Manutenção programada,1
+54,COLH-007,Colhedora,Preventiva,2,2024-07-10,2024-07-14,Aberta,1.0,6200.83,5399.54,Mecânica,Manutenção programada,4
+55,COLH-044,Colhedora,Preventiva,3,2024-09-05,2024-09-17,Concluída,3.26,8875.71,8118.889999999999,Hidráulica,Manutenção programada,12
+56,COLH-008,Colhedora,Preventiva,2,2024-08-29,2024-09-26,Em execução,4.69,6873.19,6821.12,Hidráulica,Manutenção programada,28
+57,COLH-047,Colhedora,Corretiva,5,2024-06-27,2024-07-24,Concluída,6.63,5329.47,6101.4800000000005,Mecânica,Falha inesperada,27
+58,COLH-035,Colhedora,Corretiva,1,2024-08-06,2024-08-30,Concluída,10.9,4534.09,5443.29,Mecânica,Falha inesperada,24
+59,COLH-014,Colhedora,Corretiva,3,2024-03-22,2024-04-01,Concluída,11.38,4698.9,4053.2899999999995,Elétrica,Falha inesperada,10
+60,COLH-017,Colhedora,Preventiva,1,2024-04-01,2024-04-24,Concluída,1.8,3115.81,3995.35,Elétrica,Manutenção programada,23
+61,COLH-036,Colhedora,Corretiva,3,2024-06-23,2024-07-18,Concluída,5.05,5996.82,6430.03,Hidráulica,Falha inesperada,25
+62,COLH-040,Colhedora,Corretiva,5,2024-08-26,2024-09-16,Concluída,10.97,3477.62,3074.2599999999998,Elétrica,Falha inesperada,21
+63,COLH-004,Colhedora,Preventiva,1,2024-09-16,2024-10-15,Aberta,2.91,4441.32,3673.97,Elétrica,Manutenção programada,29
+64,COLH-002,Colhedora,Corretiva,4,2024-12-30,2025-01-25,Em execução,4.13,6005.52,6489.38,Hidráulica,Falha inesperada,26
+65,COLH-006,Colhedora,Preventiva,3,2024-06-11,2024-07-01,Concluída,2.36,4644.01,5975.66,Elétrica,Manutenção programada,20
+66,COLH-042,Colhedora,Preventiva,4,2024-02-17,2024-03-12,Aberta,3.42,4261.57,4589.99,Mecânica,Manutenção programada,24
+67,COLH-004,Colhedora,Corretiva,1,2024-11-24,2024-12-19,Aberta,5.62,3203.78,2755.84,Elétrica,Falha inesperada,25
+68,COLH-029,Colhedora,Corretiva,4,2024-11-23,2024-12-06,Concluída,0.32,6807.99,5613.57,Hidráulica,Falha inesperada,13
+69,COLH-018,Colhedora,Corretiva,4,2024-04-25,2024-05-18,Aberta,7.03,3750.17,5273.76,Mecânica,Falha inesperada,23
+70,COLH-026,Colhedora,Corretiva,1,2024-12-02,2024-12-16,Concluída,7.28,4121.19,5254.67,Elétrica,Falha inesperada,14
+71,COLH-044,Colhedora,Corretiva,5,2024-12-02,2024-12-25,Em execução,8.03,2312.41,2854.0699999999997,Mecânica,Falha inesperada,23
+72,COLH-034,Colhedora,Corretiva,4,2024-08-12,2024-08-17,Concluída,11.78,4970.21,6452.610000000001,Mecânica,Falha inesperada,5
+73,COLH-010,Colhedora,Corretiva,4,2024-12-17,2024-12-21,Concluída,8.16,4500.06,4979.200000000001,Elétrica,Falha inesperada,4
+74,COLH-036,Colhedora,Corretiva,5,2024-11-23,2024-12-07,Concluída,8.73,5272.79,5147.96,Elétrica,Falha inesperada,14
+75,COLH-014,Colhedora,Corretiva,4,2024-05-26,2024-06-05,Concluída,11.17,3238.05,3982.1600000000003,Hidráulica,Falha inesperada,10
+76,COLH-031,Colhedora,Corretiva,4,2024-03-03,2024-03-20,Concluída,8.03,6101.27,5737.490000000001,Hidráulica,Falha inesperada,17
+77,COLH-048,Colhedora,Corretiva,4,2024-10-20,2024-10-30,Em execução,14.41,2241.18,1744.6599999999999,Mecânica,Falha inesperada,10
+78,COLH-015,Colhedora,Corretiva,2,2024-11-18,2024-12-14,Concluída,4.21,4861.73,5779.0199999999995,Hidráulica,Falha inesperada,26
+79,COLH-008,Colhedora,Preventiva,5,2024-11-20,2024-11-27,Concluída,2.07,5173.23,6157.839999999999,Mecânica,Manutenção programada,7
+80,COLH-014,Colhedora,Preventiva,4,2024-01-13,2024-01-29,Concluída,3.61,5086.66,4367.67,Mecânica,Manutenção programada,16
+81,COLH-023,Colhedora,Corretiva,5,2024-07-07,2024-07-08,Concluída,11.76,5236.63,4547.1900000000005,Hidráulica,Falha inesperada,1
+82,COLH-040,Colhedora,Preventiva,3,2024-10-13,2024-10-30,Em execução,2.8,6183.01,6126.97,Hidráulica,Manutenção programada,17
+83,COLH-021,Colhedora,Corretiva,3,2024-07-26,2024-08-16,Concluída,4.97,6987.05,6718.01,Hidráulica,Falha inesperada,21
+84,COLH-016,Colhedora,Preventiva,4,2024-04-23,2024-05-22,Concluída,4.76,4766.59,5447.780000000001,Elétrica,Manutenção programada,29
+85,COLH-045,Colhedora,Corretiva,5,2024-01-22,2024-01-31,Aberta,5.62,3548.24,3886.68,Mecânica,Falha inesperada,9
+86,COLH-018,Colhedora,Preventiva,5,2024-12-14,2024-12-20,Concluída,3.34,5841.08,7073.01,Mecânica,Manutenção programada,6
+87,COLH-047,Colhedora,Preventiva,5,2024-08-01,2024-08-20,Em execução,4.31,4579.64,5133.450000000001,Mecânica,Manutenção programada,19
+88,COLH-024,Colhedora,Preventiva,2,2024-06-19,2024-07-02,Em execução,2.56,6896.93,6681.27,Hidráulica,Manutenção programada,13
+89,COLH-026,Colhedora,Preventiva,3,2024-11-18,2024-11-21,Em execução,2.38,4097.05,2884.15,Hidráulica,Manutenção programada,3
+90,COLH-025,Colhedora,Corretiva,5,2024-02-23,2024-03-01,Aberta,6.34,3712.98,4156.54,Hidráulica,Falha inesperada,7
+91,COLH-045,Colhedora,Corretiva,5,2024-10-24,2024-11-15,Concluída,10.7,5215.69,4147.429999999999,Hidráulica,Falha inesperada,22
+92,COLH-041,Colhedora,Preventiva,2,2024-11-15,2024-11-24,Em execução,4.06,2389.37,2163.81,Hidráulica,Manutenção programada,9
+93,COLH-029,Colhedora,Corretiva,2,2024-05-05,2024-05-27,Concluída,8.1,4298.86,4021.4799999999996,Elétrica,Falha inesperada,22
+94,COLH-015,Colhedora,Preventiva,5,2024-10-03,2024-10-08,Concluída,4.88,4505.24,4398.5,Hidráulica,Manutenção programada,5
+95,COLH-045,Colhedora,Corretiva,1,2024-07-22,2024-08-01,Em execução,8.1,5330.71,4577.88,Mecânica,Falha inesperada,10
+96,COLH-001,Colhedora,Corretiva,5,2024-07-12,2024-08-04,Concluída,11.88,3505.59,3225.37,Hidráulica,Falha inesperada,23
+97,COLH-025,Colhedora,Corretiva,5,2024-06-17,2024-07-04,Concluída,6.7,3680.75,4897.47,Mecânica,Falha inesperada,17
+98,COLH-007,Colhedora,Corretiva,2,2024-05-31,2024-06-12,Concluída,15.0,6735.37,7949.889999999999,Hidráulica,Falha inesperada,12
+99,COLH-009,Colhedora,Corretiva,2,2024-02-04,2024-02-27,Aberta,12.71,4979.81,6505.81,Hidráulica,Falha inesperada,23
+100,COLH-024,Colhedora,Corretiva,5,2024-07-02,2024-07-18,Concluída,7.62,6296.96,6605.08,Mecânica,Falha inesperada,16
+101,COLH-001,Colhedora,Corretiva,5,2024-10-12,2024-10-15,Concluída,12.3,4187.32,4704.299999999999,Mecânica,Falha inesperada,3
+102,COLH-044,Colhedora,Corretiva,5,2024-02-26,2024-03-22,Em execução,12.15,4918.32,6146.8099999999995,Mecânica,Falha inesperada,25
+103,COLH-008,Colhedora,Corretiva,2,2024-08-09,2024-08-31,Aberta,12.66,5321.8,4445.27,Mecânica,Falha inesperada,22
+104,COLH-024,Colhedora,Preventiva,5,2024-10-29,2024-11-07,Concluída,0.52,7621.33,8565.83,Elétrica,Manutenção programada,9
+105,COLH-011,Colhedora,Corretiva,5,2024-06-11,2024-07-10,Em execução,10.16,4673.57,6015.45,Mecânica,Falha inesperada,29
+106,COLH-017,Colhedora,Corretiva,4,2024-01-19,2024-02-03,Concluída,9.63,4750.6,4339.43,Hidráulica,Falha inesperada,15
+107,COLH-008,Colhedora,Corretiva,1,2024-09-20,2024-09-25,Concluída,9.41,6647.23,8053.339999999999,Hidráulica,Falha inesperada,5
+108,COLH-035,Colhedora,Preventiva,3,2024-10-08,2024-10-31,Concluída,3.22,4430.28,6376.45,Elétrica,Manutenção programada,23
+109,COLH-035,Colhedora,Corretiva,1,2024-04-22,2024-05-05,Concluída,8.74,5426.94,6349.219999999999,Mecânica,Falha inesperada,13
+110,COLH-033,Colhedora,Preventiva,4,2024-11-22,2024-12-06,Em execução,4.28,6516.44,7292.04,Hidráulica,Manutenção programada,14
+111,COLH-005,Colhedora,Preventiva,3,2024-01-30,2024-02-19,Em execução,3.54,4136.24,3540.4199999999996,Elétrica,Manutenção programada,20
+112,COLH-042,Colhedora,Corretiva,5,2024-05-14,2024-05-29,Concluída,8.65,5510.69,6666.049999999999,Hidráulica,Falha inesperada,15
+113,COLH-039,Colhedora,Corretiva,4,2024-03-07,2024-03-23,Concluída,11.42,7618.33,7097.86,Elétrica,Falha inesperada,16
+114,COLH-041,Colhedora,Corretiva,5,2024-03-05,2024-03-28,Concluída,9.25,6381.98,6977.7699999999995,Elétrica,Falha inesperada,23
+115,COLH-028,Colhedora,Corretiva,2,2024-10-18,2024-10-31,Em execução,9.54,5427.4,6104.28,Mecânica,Falha inesperada,13
+116,COLH-007,Colhedora,Corretiva,4,2024-01-25,2024-02-11,Em execução,13.6,4663.52,2326.5200000000004,Elétrica,Falha inesperada,17
+117,COLH-009,Colhedora,Preventiva,2,2024-02-06,2024-02-29,Aberta,2.57,4093.52,4718.16,Hidráulica,Manutenção programada,23
+118,COLH-008,Colhedora,Corretiva,4,2024-01-01,2024-01-09,Concluída,3.45,3517.72,5914.9,Hidráulica,Falha inesperada,8
+119,COLH-012,Colhedora,Corretiva,4,2024-02-06,2024-02-27,Aberta,8.22,7264.44,5890.95,Mecânica,Falha inesperada,21
+120,COLH-034,Colhedora,Corretiva,2,2024-05-20,2024-05-22,Concluída,8.64,6973.21,7230.1,Mecânica,Falha inesperada,2
+121,COLH-033,Colhedora,Preventiva,3,2024-08-19,2024-08-24,Concluída,3.72,4014.33,2756.64,Elétrica,Manutenção programada,5
+122,COLH-048,Colhedora,Corretiva,1,2024-05-15,2024-05-21,Concluída,8.32,5506.53,5091.219999999999,Mecânica,Falha inesperada,6
+123,COLH-023,Colhedora,Corretiva,5,2024-07-06,2024-07-18,Concluída,10.27,5166.99,3923.17,Hidráulica,Falha inesperada,12
+124,COLH-024,Colhedora,Preventiva,4,2024-05-07,2024-05-25,Em execução,5.5,6776.62,7204.25,Hidráulica,Manutenção programada,18
+125,COLH-037,Colhedora,Preventiva,5,2024-07-19,2024-08-10,Concluída,3.8,5574.2,6509.08,Mecânica,Manutenção programada,22
+126,COLH-035,Colhedora,Corretiva,2,2024-05-06,2024-05-28,Concluída,10.93,4965.77,5593.56,Mecânica,Falha inesperada,22
+127,COLH-044,Colhedora,Preventiva,5,2024-09-13,2024-09-14,Concluída,2.87,4187.47,3743.32,Mecânica,Manutenção programada,1
+128,COLH-040,Colhedora,Preventiva,2,2024-06-12,2024-06-29,Concluída,1.61,5511.3,5323.78,Elétrica,Manutenção programada,17
+129,COLH-022,Colhedora,Corretiva,5,2024-02-04,2024-02-15,Concluída,1.11,4477.73,4995.549999999999,Elétrica,Falha inesperada,11
+130,COLH-027,Colhedora,Corretiva,1,2024-07-12,2024-07-22,Em execução,6.44,5331.03,4911.889999999999,Hidráulica,Falha inesperada,10
+131,COLH-035,Colhedora,Corretiva,1,2024-07-09,2024-07-28,Em execução,0.26,4886.04,4123.0,Elétrica,Falha inesperada,19
+132,COLH-001,Colhedora,Corretiva,1,2024-04-13,2024-04-27,Concluída,9.54,4441.26,4549.96,Elétrica,Falha inesperada,14
+133,COLH-035,Colhedora,Preventiva,1,2024-01-23,2024-02-18,Concluída,2.62,3540.89,3085.12,Elétrica,Manutenção programada,26
+134,COLH-037,Colhedora,Preventiva,1,2024-09-21,2024-10-01,Aberta,1.69,5771.29,6400.54,Elétrica,Manutenção programada,10
+135,COLH-047,Colhedora,Corretiva,1,2024-10-16,2024-10-31,Concluída,8.39,5063.86,6402.82,Hidráulica,Falha inesperada,15
+136,COLH-014,Colhedora,Corretiva,2,2024-09-16,2024-10-14,Concluída,5.78,7681.13,10059.2,Mecânica,Falha inesperada,28
+137,COLH-003,Colhedora,Corretiva,4,2024-12-23,2025-01-11,Em execução,9.35,3451.48,4021.9300000000003,Hidráulica,Falha inesperada,19
+138,COLH-001,Colhedora,Corretiva,5,2024-03-15,2024-03-19,Concluída,10.12,5937.95,6754.73,Elétrica,Falha inesperada,4
+139,COLH-005,Colhedora,Preventiva,1,2024-12-20,2024-12-22,Concluída,2.3,4876.03,4696.58,Mecânica,Manutenção programada,2
+140,COLH-026,Colhedora,Corretiva,2,2024-03-12,2024-03-21,Aberta,7.29,8149.64,8019.740000000001,Mecânica,Falha inesperada,9
+141,COLH-014,Colhedora,Corretiva,2,2024-09-15,2024-09-25,Concluída,8.64,5823.46,7150.7,Mecânica,Falha inesperada,10
+142,COLH-039,Colhedora,Corretiva,2,2024-07-06,2024-08-03,Concluída,3.78,5487.03,5565.969999999999,Hidráulica,Falha inesperada,28
+143,COLH-027,Colhedora,Corretiva,4,2024-06-21,2024-07-02,Concluída,8.64,4879.85,5238.21,Mecânica,Falha inesperada,11
+144,COLH-009,Colhedora,Corretiva,5,2024-10-16,2024-10-30,Concluída,3.71,3945.32,5223.700000000001,Hidráulica,Falha inesperada,14
+145,COLH-015,Colhedora,Preventiva,4,2024-02-14,2024-02-21,Concluída,3.57,5467.09,5552.1900000000005,Hidráulica,Manutenção programada,7
+146,COLH-015,Colhedora,Corretiva,3,2024-03-01,2024-03-24,Concluída,6.69,2926.55,4426.89,Elétrica,Falha inesperada,23
+147,COLH-026,Colhedora,Preventiva,2,2024-03-23,2024-04-07,Concluída,1.56,2995.57,3753.9900000000002,Elétrica,Manutenção programada,15
+148,COLH-042,Colhedora,Corretiva,3,2024-05-02,2024-05-24,Concluída,6.26,6518.66,7182.98,Mecânica,Falha inesperada,22
+149,COLH-013,Colhedora,Corretiva,1,2024-12-23,2025-01-11,Em execução,6.39,2356.81,2138.2599999999998,Mecânica,Falha inesperada,19
+150,COLH-032,Colhedora,Corretiva,1,2024-01-16,2024-02-07,Em execução,11.21,4520.64,5227.9400000000005,Elétrica,Falha inesperada,22
+151,COLH-039,Colhedora,Preventiva,4,2024-03-06,2024-03-21,Em execução,3.17,3426.31,3383.07,Hidráulica,Manutenção programada,15
+152,COLH-049,Colhedora,Preventiva,5,2024-05-24,2024-06-21,Concluída,2.04,4396.29,5071.82,Hidráulica,Manutenção programada,28
+153,COLH-032,Colhedora,Corretiva,3,2024-06-10,2024-07-04,Aberta,12.95,5276.82,5495.36,Elétrica,Falha inesperada,24
+154,COLH-004,Colhedora,Corretiva,5,2024-08-21,2024-08-29,Concluída,9.88,6476.83,7550.28,Hidráulica,Falha inesperada,8
+155,COLH-030,Colhedora,Preventiva,4,2024-05-23,2024-06-03,Em execução,2.66,6826.45,7101.03,Elétrica,Manutenção programada,11
+156,COLH-037,Colhedora,Corretiva,1,2024-12-23,2025-01-21,Em execução,3.34,3621.57,5551.860000000001,Elétrica,Falha inesperada,29
+157,COLH-023,Colhedora,Corretiva,5,2024-07-06,2024-07-15,Concluída,6.73,4301.06,4380.620000000001,Mecânica,Falha inesperada,9
+158,COLH-039,Colhedora,Preventiva,5,2024-11-17,2024-12-02,Concluída,2.78,11078.83,10951.17,Mecânica,Manutenção programada,15
+159,COLH-045,Colhedora,Corretiva,1,2024-01-13,2024-01-14,Aberta,9.11,4624.98,5201.87,Elétrica,Falha inesperada,1
+160,COLH-015,Colhedora,Corretiva,3,2024-07-02,2024-07-03,Concluída,9.82,3676.68,4838.98,Mecânica,Falha inesperada,1
+161,COLH-043,Colhedora,Corretiva,1,2024-04-20,2024-05-09,Concluída,10.42,3926.3,5082.38,Elétrica,Falha inesperada,19
+162,COLH-029,Colhedora,Corretiva,5,2024-10-16,2024-10-19,Em execução,3.17,4633.79,5067.22,Hidráulica,Falha inesperada,3
+163,COLH-036,Colhedora,Corretiva,3,2024-10-21,2024-10-31,Concluída,8.63,4410.89,4982.16,Hidráulica,Falha inesperada,10
+164,COLH-013,Colhedora,Preventiva,3,2024-08-02,2024-08-10,Concluída,2.84,4648.44,5220.87,Hidráulica,Manutenção programada,8
+165,COLH-032,Colhedora,Corretiva,1,2024-04-29,2024-05-14,Aberta,16.03,4967.86,4405.5599999999995,Hidráulica,Falha inesperada,15
+166,COLH-007,Colhedora,Corretiva,5,2024-02-24,2024-03-05,Concluída,8.19,4957.39,6076.650000000001,Elétrica,Falha inesperada,10
+167,COLH-022,Colhedora,Corretiva,4,2024-01-27,2024-01-28,Concluída,6.13,3566.77,2860.48,Hidráulica,Falha inesperada,1
+168,COLH-028,Colhedora,Corretiva,5,2024-04-27,2024-05-26,Concluída,8.33,5554.0,4993.2,Hidráulica,Falha inesperada,29
+169,COLH-002,Colhedora,Preventiva,2,2024-08-08,2024-08-26,Em execução,2.99,5181.57,5525.59,Hidráulica,Manutenção programada,18
+170,COLH-042,Colhedora,Corretiva,4,2024-08-18,2024-08-20,Aberta,2.03,5744.87,5788.98,Hidráulica,Falha inesperada,2
+171,COLH-045,Colhedora,Corretiva,3,2024-02-22,2024-03-12,Concluída,9.22,2428.32,3365.25,Elétrica,Falha inesperada,19
+172,COLH-006,Colhedora,Preventiva,4,2024-10-21,2024-11-03,Aberta,2.69,5235.27,5893.150000000001,Hidráulica,Manutenção programada,13
+173,COLH-028,Colhedora,Corretiva,3,2024-11-16,2024-12-08,Concluída,7.92,2021.61,2432.17,Mecânica,Falha inesperada,22
+174,COLH-028,Colhedora,Corretiva,3,2024-08-20,2024-08-21,Concluída,5.38,4736.64,4136.21,Mecânica,Falha inesperada,1
+175,COLH-044,Colhedora,Corretiva,4,2024-06-06,2024-06-08,Concluída,4.72,5986.9,6308.15,Mecânica,Falha inesperada,2
+176,COLH-044,Colhedora,Corretiva,3,2024-09-25,2024-10-24,Concluída,10.64,6568.67,6826.66,Mecânica,Falha inesperada,29
+177,COLH-020,Colhedora,Corretiva,3,2024-01-21,2024-02-06,Concluída,11.33,5501.69,5979.44,Mecânica,Falha inesperada,16
+178,COLH-030,Colhedora,Corretiva,2,2024-02-22,2024-03-08,Aberta,9.25,6013.09,5969.06,Mecânica,Falha inesperada,15
+179,COLH-011,Colhedora,Preventiva,5,2024-10-01,2024-10-14,Concluída,1.19,4551.49,5269.74,Elétrica,Manutenção programada,13
+180,COLH-028,Colhedora,Corretiva,5,2024-11-08,2024-11-24,Em execução,9.45,4236.25,4259.0,Mecânica,Falha inesperada,16
+181,COLH-025,Colhedora,Corretiva,2,2024-10-07,2024-10-24,Em execução,2.61,9039.14,9682.43,Hidráulica,Falha inesperada,17
+182,COLH-039,Colhedora,Corretiva,4,2024-08-01,2024-08-22,Concluída,6.02,6240.74,7177.58,Mecânica,Falha inesperada,21
+183,COLH-033,Colhedora,Corretiva,1,2024-01-31,2024-02-29,Concluída,10.6,3240.52,3112.84,Elétrica,Falha inesperada,29
+184,COLH-001,Colhedora,Preventiva,1,2024-12-02,2024-12-31,Concluída,3.66,2398.0,2080.27,Mecânica,Manutenção programada,29
+185,COLH-027,Colhedora,Corretiva,1,2024-07-01,2024-07-08,Em execução,9.37,4302.4,4983.49,Hidráulica,Falha inesperada,7
+186,COLH-013,Colhedora,Corretiva,2,2024-01-23,2024-02-16,Concluída,11.94,6787.8,6030.92,Hidráulica,Falha inesperada,24
+187,COLH-041,Colhedora,Preventiva,2,2024-02-01,2024-02-27,Em execução,3.56,5073.11,6262.44,Elétrica,Manutenção programada,26
+188,COLH-003,Colhedora,Corretiva,3,2024-03-14,2024-03-31,Concluída,1.94,1663.97,1972.74,Elétrica,Falha inesperada,17
+189,COLH-039,Colhedora,Corretiva,1,2024-01-10,2024-01-17,Em execução,6.89,4734.06,4942.25,Elétrica,Falha inesperada,7
+190,COLH-006,Colhedora,Corretiva,4,2024-02-23,2024-03-07,Concluída,7.88,4996.4,5733.209999999999,Elétrica,Falha inesperada,13
+191,COLH-008,Colhedora,Corretiva,4,2024-02-21,2024-02-26,Concluída,7.52,1376.5,2063.66,Mecânica,Falha inesperada,5
+192,COLH-027,Colhedora,Preventiva,1,2024-05-27,2024-06-22,Concluída,2.38,5036.25,5341.46,Mecânica,Manutenção programada,26
+193,COLH-009,Colhedora,Corretiva,1,2024-06-08,2024-06-25,Concluída,4.91,3479.95,4482.84,Hidráulica,Falha inesperada,17
+194,COLH-037,Colhedora,Corretiva,1,2024-01-14,2024-01-17,Concluída,15.2,2246.68,2008.7699999999998,Elétrica,Falha inesperada,3
+195,COLH-033,Colhedora,Corretiva,2,2024-06-26,2024-07-03,Concluída,6.83,7406.76,8276.65,Elétrica,Falha inesperada,7
+196,COLH-042,Colhedora,Preventiva,2,2024-02-22,2024-03-19,Em execução,5.35,3413.6,2850.7,Mecânica,Manutenção programada,26
+197,COLH-044,Colhedora,Corretiva,2,2024-11-30,2024-12-17,Em execução,4.58,3999.07,4707.59,Elétrica,Falha inesperada,17
+198,COLH-024,Colhedora,Preventiva,5,2024-01-22,2024-01-29,Concluída,3.66,3979.13,4016.83,Hidráulica,Manutenção programada,7
+199,COLH-015,Colhedora,Corretiva,4,2024-01-30,2024-02-20,Concluída,8.69,5003.36,4254.49,Hidráulica,Falha inesperada,21
+200,COLH-032,Colhedora,Preventiva,4,2024-07-09,2024-07-10,Concluída,2.08,7649.47,8154.780000000001,Elétrica,Manutenção programada,1
+201,COLH-032,Colhedora,Preventiva,3,2024-09-16,2024-10-03,Em execução,2.53,3205.72,3478.18,Hidráulica,Manutenção programada,17
+202,COLH-024,Colhedora,Preventiva,2,2024-07-23,2024-08-09,Concluída,2.98,4539.79,3605.61,Hidráulica,Manutenção programada,17
+203,COLH-041,Colhedora,Preventiva,5,2024-02-28,2024-03-10,Concluída,2.16,5181.29,3790.3599999999997,Mecânica,Manutenção programada,11
+204,COLH-049,Colhedora,Corretiva,5,2024-09-20,2024-10-15,Concluída,7.23,3696.81,3875.0,Hidráulica,Falha inesperada,25
+205,COLH-049,Colhedora,Corretiva,4,2024-01-12,2024-02-08,Concluída,0.91,4515.67,6110.25,Elétrica,Falha inesperada,27
+206,COLH-012,Colhedora,Corretiva,2,2024-04-28,2024-05-27,Concluída,10.13,5891.75,6448.5599999999995,Elétrica,Falha inesperada,29
+207,COLH-039,Colhedora,Corretiva,3,2024-10-16,2024-10-19,Em execução,11.68,3866.44,3631.8,Hidráulica,Falha inesperada,3
+208,COLH-002,Colhedora,Corretiva,2,2024-12-03,2024-12-18,Concluída,9.36,4492.04,5657.54,Elétrica,Falha inesperada,15
+209,COLH-003,Colhedora,Corretiva,1,2024-09-04,2024-10-03,Concluída,14.79,4352.97,5378.75,Mecânica,Falha inesperada,29
+210,COLH-049,Colhedora,Corretiva,2,2024-12-19,2025-01-09,Concluída,10.05,4844.29,6161.55,Hidráulica,Falha inesperada,21
+211,COLH-037,Colhedora,Corretiva,1,2024-05-06,2024-05-17,Em execução,11.43,5364.73,6211.849999999999,Hidráulica,Falha inesperada,11
+212,COLH-049,Colhedora,Preventiva,1,2024-03-15,2024-04-10,Aberta,4.24,5879.84,6888.56,Hidráulica,Manutenção programada,26
+213,COLH-017,Colhedora,Corretiva,3,2024-12-26,2025-01-23,Concluída,0.25,7906.33,8791.22,Elétrica,Falha inesperada,28
+214,COLH-049,Colhedora,Preventiva,4,2024-07-22,2024-08-07,Concluída,3.42,1012.29,930.29,Elétrica,Manutenção programada,16
+215,COLH-002,Colhedora,Preventiva,2,2024-02-18,2024-03-14,Concluída,1.62,4748.91,3739.0899999999997,Hidráulica,Manutenção programada,25
+216,COLH-002,Colhedora,Preventiva,1,2024-03-19,2024-04-10,Concluída,1.82,2953.35,2836.44,Elétrica,Manutenção programada,22
+217,COLH-028,Colhedora,Corretiva,2,2024-08-28,2024-09-25,Concluída,4.98,4421.94,5605.889999999999,Elétrica,Falha inesperada,28
+218,COLH-023,Colhedora,Preventiva,4,2024-12-14,2024-12-23,Em execução,2.69,6321.3,6316.49,Hidráulica,Manutenção programada,9
+219,COLH-037,Colhedora,Preventiva,4,2024-06-02,2024-06-26,Concluída,3.65,6796.69,6980.32,Hidráulica,Manutenção programada,24
+220,COLH-032,Colhedora,Preventiva,5,2024-09-30,2024-10-24,Concluída,3.43,6867.07,6234.44,Elétrica,Manutenção programada,24
+221,COLH-033,Colhedora,Corretiva,4,2024-04-05,2024-04-06,Concluída,7.96,6852.94,6712.07,Hidráulica,Falha inesperada,1
+222,COLH-001,Colhedora,Corretiva,3,2024-08-01,2024-08-30,Concluída,10.17,4739.1,5031.83,Hidráulica,Falha inesperada,29
+223,COLH-019,Colhedora,Corretiva,1,2024-10-20,2024-11-14,Concluída,10.35,7097.8,7791.85,Hidráulica,Falha inesperada,25
+224,COLH-002,Colhedora,Corretiva,5,2024-07-27,2024-08-18,Concluída,9.33,7395.27,7328.34,Hidráulica,Falha inesperada,22
+225,COLH-044,Colhedora,Corretiva,3,2024-12-08,2024-12-24,Concluída,2.83,5208.2,5085.37,Elétrica,Falha inesperada,16
+226,COLH-026,Colhedora,Preventiva,2,2024-03-28,2024-04-06,Aberta,2.26,6765.85,7739.59,Hidráulica,Manutenção programada,9
+227,COLH-032,Colhedora,Preventiva,1,2024-11-01,2024-11-20,Em execução,3.03,5061.86,5622.07,Mecânica,Manutenção programada,19
+228,COLH-006,Colhedora,Corretiva,4,2024-09-20,2024-10-02,Concluída,10.2,7115.35,7774.290000000001,Hidráulica,Falha inesperada,12
+229,COLH-032,Colhedora,Preventiva,1,2024-11-20,2024-12-09,Aberta,1.67,4757.51,6280.17,Mecânica,Manutenção programada,19
+230,COLH-004,Colhedora,Corretiva,2,2024-11-15,2024-12-07,Em execução,7.97,4085.72,3981.66,Hidráulica,Falha inesperada,22
+231,COLH-011,Colhedora,Preventiva,5,2024-06-05,2024-06-14,Concluída,1.43,3320.01,3580.79,Mecânica,Manutenção programada,9
+232,COLH-017,Colhedora,Preventiva,5,2024-06-04,2024-06-11,Concluída,4.03,4739.56,5480.490000000001,Mecânica,Manutenção programada,7
+233,COLH-038,Colhedora,Corretiva,5,2024-05-18,2024-06-01,Concluída,8.73,5126.58,4729.37,Hidráulica,Falha inesperada,14
+234,COLH-024,Colhedora,Corretiva,4,2024-04-30,2024-05-29,Em execução,3.96,3581.22,4064.46,Hidráulica,Falha inesperada,29
+235,COLH-005,Colhedora,Preventiva,3,2024-03-05,2024-03-24,Em execução,1.65,4624.84,4942.6,Hidráulica,Manutenção programada,19
+236,COLH-034,Colhedora,Corretiva,3,2024-04-16,2024-05-05,Em execução,9.16,4210.18,6732.02,Mecânica,Falha inesperada,19
+237,COLH-006,Colhedora,Corretiva,1,2024-05-26,2024-05-28,Aberta,12.12,3384.54,3764.44,Elétrica,Falha inesperada,2
+238,COLH-022,Colhedora,Preventiva,4,2024-05-16,2024-05-25,Concluída,1.9,6553.83,7779.38,Elétrica,Manutenção programada,9
+239,COLH-011,Colhedora,Corretiva,5,2024-06-10,2024-06-23,Em execução,10.36,6817.86,7781.8099999999995,Hidráulica,Falha inesperada,13
+240,COLH-048,Colhedora,Preventiva,5,2024-04-09,2024-04-24,Concluída,2.46,6547.15,5921.9,Elétrica,Manutenção programada,15
+241,COLH-016,Colhedora,Corretiva,2,2024-12-03,2024-12-06,Aberta,10.47,4873.77,3934.7100000000005,Elétrica,Falha inesperada,3
+242,COLH-033,Colhedora,Preventiva,2,2024-11-02,2024-11-13,Concluída,3.68,4966.43,5464.04,Hidráulica,Manutenção programada,11
+243,COLH-009,Colhedora,Corretiva,5,2024-05-20,2024-06-10,Concluída,8.47,3405.24,4711.11,Mecânica,Falha inesperada,21
+244,COLH-006,Colhedora,Preventiva,5,2024-03-23,2024-04-06,Concluída,1.17,5621.95,6152.28,Hidráulica,Manutenção programada,14
+245,COLH-016,Colhedora,Preventiva,4,2024-06-25,2024-07-20,Concluída,3.68,5254.45,5617.53,Elétrica,Manutenção programada,25
+246,COLH-029,Colhedora,Corretiva,3,2024-07-16,2024-07-24,Concluída,9.51,9265.92,9338.65,Mecânica,Falha inesperada,8
+247,COLH-003,Colhedora,Corretiva,2,2024-04-21,2024-05-09,Em execução,9.23,6630.65,5871.48,Elétrica,Falha inesperada,18
+248,COLH-020,Colhedora,Preventiva,3,2024-02-25,2024-03-15,Concluída,3.2,5472.87,5004.45,Mecânica,Manutenção programada,19
+249,COLH-036,Colhedora,Corretiva,4,2024-06-27,2024-07-13,Concluída,5.36,4937.59,3939.7400000000002,Elétrica,Falha inesperada,16
+250,COLH-019,Colhedora,Corretiva,5,2024-07-04,2024-07-06,Concluída,11.25,6501.96,5919.52,Hidráulica,Falha inesperada,2
+251,COLH-026,Colhedora,Corretiva,3,2024-08-05,2024-08-13,Aberta,10.69,3626.39,3505.58,Elétrica,Falha inesperada,8
+252,COLH-003,Colhedora,Corretiva,5,2024-11-11,2024-12-03,Aberta,4.77,6709.46,7630.27,Elétrica,Falha inesperada,22
+253,COLH-019,Colhedora,Preventiva,5,2024-08-04,2024-08-10,Concluída,4.31,3369.28,3313.23,Mecânica,Manutenção programada,6
+254,COLH-020,Colhedora,Preventiva,1,2024-04-29,2024-05-11,Concluída,3.13,4157.71,4662.21,Elétrica,Manutenção programada,12
+255,COLH-032,Colhedora,Corretiva,3,2024-06-23,2024-07-08,Concluída,8.39,2242.73,2650.91,Hidráulica,Falha inesperada,15
+256,COLH-007,Colhedora,Corretiva,3,2024-01-23,2024-02-17,Em execução,7.47,5921.11,6620.349999999999,Hidráulica,Falha inesperada,25
+257,COLH-041,Colhedora,Corretiva,5,2024-07-31,2024-08-08,Concluída,7.77,5374.89,4847.04,Hidráulica,Falha inesperada,8
+258,COLH-033,Colhedora,Corretiva,4,2024-08-22,2024-08-26,Em execução,12.11,4157.78,5305.129999999999,Mecânica,Falha inesperada,4
+259,COLH-040,Colhedora,Corretiva,1,2024-01-13,2024-01-28,Aberta,11.1,3606.29,2780.55,Mecânica,Falha inesperada,15
+260,COLH-039,Colhedora,Preventiva,5,2024-04-10,2024-05-08,Concluída,4.01,7068.08,7009.83,Elétrica,Manutenção programada,28
+261,COLH-018,Colhedora,Preventiva,2,2024-01-24,2024-02-13,Em execução,3.18,4799.59,5082.87,Elétrica,Manutenção programada,20
+262,COLH-040,Colhedora,Preventiva,2,2024-12-29,2025-01-23,Em execução,3.89,3849.06,4757.18,Elétrica,Manutenção programada,25
+263,COLH-001,Colhedora,Preventiva,1,2024-01-11,2024-01-28,Concluída,2.17,7882.9,9286.35,Mecânica,Manutenção programada,17
+264,COLH-011,Colhedora,Corretiva,4,2024-09-29,2024-10-12,Em execução,9.75,4014.41,4928.84,Mecânica,Falha inesperada,13
+265,COLH-028,Colhedora,Preventiva,5,2024-10-07,2024-10-25,Aberta,2.85,6707.93,8140.66,Elétrica,Manutenção programada,18
+266,COLH-025,Colhedora,Corretiva,3,2024-04-03,2024-04-05,Aberta,1.82,3273.51,2910.17,Mecânica,Falha inesperada,2
+267,COLH-023,Colhedora,Corretiva,1,2024-07-19,2024-08-01,Em execução,3.24,4467.58,5719.88,Mecânica,Falha inesperada,13
+268,COLH-031,Colhedora,Corretiva,4,2024-01-21,2024-02-03,Aberta,6.01,5753.44,6868.37,Hidráulica,Falha inesperada,13
+269,COLH-030,Colhedora,Corretiva,3,2024-12-05,2024-12-27,Concluída,9.25,4913.24,3296.22,Hidráulica,Falha inesperada,22
+270,COLH-042,Colhedora,Preventiva,2,2024-07-29,2024-08-13,Em execução,2.34,5365.64,5489.27,Elétrica,Manutenção programada,15
+271,COLH-035,Colhedora,Corretiva,2,2024-05-19,2024-06-08,Em execução,6.23,4191.75,4973.38,Elétrica,Falha inesperada,20
+272,COLH-007,Colhedora,Corretiva,3,2024-10-19,2024-11-17,Concluída,10.29,2603.31,2490.98,Hidráulica,Falha inesperada,29
+273,COLH-016,Colhedora,Corretiva,1,2024-10-24,2024-11-20,Concluída,6.33,7198.36,6629.7,Mecânica,Falha inesperada,27
+274,COLH-026,Colhedora,Corretiva,2,2024-04-10,2024-04-20,Concluída,11.99,4283.26,6274.6,Elétrica,Falha inesperada,10
+275,COLH-048,Colhedora,Preventiva,5,2024-10-30,2024-11-28,Concluída,4.17,5433.52,5822.35,Elétrica,Manutenção programada,29
+276,COLH-049,Colhedora,Corretiva,3,2024-12-24,2024-12-27,Concluída,8.07,6052.94,6463.66,Elétrica,Falha inesperada,3
+277,COLH-002,Colhedora,Corretiva,3,2024-01-28,2024-02-16,Concluída,10.26,5463.14,4715.9400000000005,Mecânica,Falha inesperada,19
+278,COLH-001,Colhedora,Corretiva,2,2024-02-10,2024-02-13,Concluída,9.85,3937.11,3747.2200000000003,Hidráulica,Falha inesperada,3
+279,COLH-048,Colhedora,Corretiva,1,2024-12-20,2025-01-11,Concluída,7.26,6739.65,6321.379999999999,Elétrica,Falha inesperada,22
+280,COLH-012,Colhedora,Preventiva,5,2024-10-29,2024-11-12,Em execução,3.86,5770.52,6933.700000000001,Hidráulica,Manutenção programada,14
+281,COLH-005,Colhedora,Corretiva,1,2024-05-25,2024-06-02,Em execução,11.03,5298.16,6001.87,Hidráulica,Falha inesperada,8
+282,COLH-037,Colhedora,Preventiva,4,2024-09-12,2024-10-09,Em execução,2.05,5263.38,5106.93,Mecânica,Manutenção programada,27
+283,COLH-032,Colhedora,Corretiva,4,2024-08-14,2024-09-06,Concluída,8.46,7523.39,8271.79,Mecânica,Falha inesperada,23
+284,COLH-009,Colhedora,Corretiva,2,2024-08-23,2024-08-27,Concluída,8.43,3904.91,4002.0899999999997,Mecânica,Falha inesperada,4
+285,COLH-041,Colhedora,Preventiva,2,2024-12-26,2025-01-22,Concluída,3.85,5622.88,6110.47,Mecânica,Manutenção programada,27
+286,COLH-035,Colhedora,Corretiva,2,2024-01-13,2024-02-10,Concluída,6.67,4207.06,4690.870000000001,Mecânica,Falha inesperada,28
+287,COLH-019,Colhedora,Corretiva,4,2024-07-28,2024-08-17,Concluída,6.21,2095.54,2731.75,Mecânica,Falha inesperada,20
+288,COLH-048,Colhedora,Preventiva,1,2024-08-16,2024-08-27,Em execução,3.17,2055.9,2595.62,Elétrica,Manutenção programada,11
+289,COLH-016,Colhedora,Corretiva,1,2024-04-09,2024-05-05,Em execução,11.54,3478.05,4114.89,Hidráulica,Falha inesperada,26
+290,COLH-003,Colhedora,Preventiva,2,2024-01-31,2024-02-11,Concluída,1.8,4012.34,5316.99,Mecânica,Manutenção programada,11
+291,COLH-020,Colhedora,Corretiva,5,2024-01-16,2024-02-12,Concluída,4.93,8259.42,9071.87,Elétrica,Falha inesperada,27
+292,COLH-024,Colhedora,Preventiva,1,2024-05-16,2024-05-27,Concluída,2.48,6047.58,6078.0599999999995,Hidráulica,Manutenção programada,11
+293,COLH-033,Colhedora,Preventiva,4,2024-11-24,2024-11-26,Concluída,2.66,6182.51,6404.150000000001,Mecânica,Manutenção programada,2
+294,COLH-024,Colhedora,Corretiva,3,2024-06-14,2024-07-01,Em execução,2.7,4044.38,5328.52,Mecânica,Falha inesperada,17
+295,COLH-011,Colhedora,Preventiva,3,2024-11-05,2024-11-14,Concluída,4.5,5091.99,5481.929999999999,Elétrica,Manutenção programada,9
+296,COLH-049,Colhedora,Corretiva,3,2024-04-09,2024-05-07,Concluída,7.61,8459.23,8460.02,Hidráulica,Falha inesperada,28
+297,COLH-008,Colhedora,Preventiva,5,2024-04-18,2024-05-16,Concluída,2.72,3178.37,2973.46,Mecânica,Manutenção programada,28
+298,COLH-036,Colhedora,Corretiva,2,2024-12-08,2024-12-10,Concluída,12.87,5684.36,6202.79,Hidráulica,Falha inesperada,2
+299,COLH-038,Colhedora,Corretiva,4,2024-06-21,2024-07-20,Em execução,10.15,7416.94,7033.049999999999,Elétrica,Falha inesperada,29
+300,COLH-040,Colhedora,Corretiva,5,2024-08-24,2024-09-17,Em execução,6.39,6448.91,7776.75,Mecânica,Falha inesperada,24
+301,COLH-020,Colhedora,Corretiva,4,2024-06-10,2024-06-25,Concluída,8.49,7702.31,7172.06,Hidráulica,Falha inesperada,15
+302,COLH-035,Colhedora,Corretiva,4,2024-08-03,2024-08-19,Concluída,7.87,5319.3,6801.75,Elétrica,Falha inesperada,16
+303,COLH-048,Colhedora,Preventiva,2,2024-09-20,2024-10-15,Concluída,4.45,5905.18,5977.0,Elétrica,Manutenção programada,25
+304,COLH-025,Colhedora,Preventiva,3,2024-09-19,2024-09-23,Em execução,2.83,5164.66,4603.2699999999995,Mecânica,Manutenção programada,4
+305,COLH-035,Colhedora,Preventiva,2,2024-10-18,2024-10-26,Concluída,1.56,5800.02,6251.360000000001,Hidráulica,Manutenção programada,8
+306,COLH-025,Colhedora,Corretiva,5,2024-09-30,2024-10-09,Em execução,2.37,3627.19,3164.76,Mecânica,Falha inesperada,9
+307,COLH-029,Colhedora,Corretiva,5,2024-01-03,2024-01-29,Aberta,12.43,6188.52,6516.02,Mecânica,Falha inesperada,26
+308,COLH-018,Colhedora,Corretiva,5,2024-01-28,2024-02-23,Concluída,5.63,5441.37,5279.34,Hidráulica,Falha inesperada,26
+309,COLH-046,Colhedora,Corretiva,2,2024-11-21,2024-11-26,Concluída,10.01,5093.99,6150.049999999999,Hidráulica,Falha inesperada,5
+310,COLH-018,Colhedora,Corretiva,4,2024-05-28,2024-06-13,Aberta,8.22,7619.59,8028.99,Hidráulica,Falha inesperada,16
+311,COLH-002,Colhedora,Corretiva,4,2024-01-28,2024-02-10,Aberta,6.75,4601.92,3951.12,Elétrica,Falha inesperada,13
+312,COLH-035,Colhedora,Preventiva,1,2024-11-05,2024-11-12,Concluída,2.74,6811.73,6634.099999999999,Elétrica,Manutenção programada,7
+313,COLH-016,Colhedora,Corretiva,5,2024-03-05,2024-03-31,Aberta,12.75,6960.92,7824.88,Hidráulica,Falha inesperada,26
+314,COLH-041,Colhedora,Corretiva,4,2024-12-21,2025-01-10,Concluída,3.66,6283.32,7612.99,Elétrica,Falha inesperada,20
+315,COLH-036,Colhedora,Corretiva,1,2024-01-21,2024-02-07,Concluída,6.84,3552.35,3816.13,Mecânica,Falha inesperada,17
+316,COLH-033,Colhedora,Corretiva,4,2024-09-08,2024-09-11,Em execução,10.72,5538.62,5003.1,Hidráulica,Falha inesperada,3
+317,COLH-004,Colhedora,Corretiva,5,2024-08-22,2024-08-27,Em execução,4.15,7937.71,9080.94,Mecânica,Falha inesperada,5
+318,COLH-033,Colhedora,Preventiva,3,2024-08-14,2024-09-02,Concluída,4.32,2272.17,3132.62,Hidráulica,Manutenção programada,19
+319,COLH-014,Colhedora,Corretiva,5,2024-01-13,2024-01-25,Concluída,10.68,4718.51,6063.74,Mecânica,Falha inesperada,12
+320,COLH-021,Colhedora,Corretiva,2,2024-11-08,2024-12-07,Concluída,8.82,6743.46,7275.63,Hidráulica,Falha inesperada,29
+321,COLH-048,Colhedora,Corretiva,4,2024-02-18,2024-03-16,Concluída,6.49,4827.02,4710.540000000001,Mecânica,Falha inesperada,27
+322,COLH-020,Colhedora,Preventiva,4,2024-04-27,2024-05-04,Concluída,1.59,6214.83,6928.34,Hidráulica,Manutenção programada,7
+323,COLH-008,Colhedora,Preventiva,2,2024-02-23,2024-03-22,Concluída,3.71,7113.79,7674.85,Hidráulica,Manutenção programada,28
+324,COLH-007,Colhedora,Preventiva,2,2024-05-17,2024-05-26,Concluída,5.75,5348.01,5188.110000000001,Elétrica,Manutenção programada,9
+325,COLH-003,Colhedora,Preventiva,3,2024-02-22,2024-03-21,Concluída,3.15,5763.49,6222.4,Mecânica,Manutenção programada,28
+326,COLH-017,Colhedora,Corretiva,4,2024-02-13,2024-02-19,Concluída,2.52,5137.81,5281.79,Elétrica,Falha inesperada,6
+327,COLH-033,Colhedora,Corretiva,4,2024-10-29,2024-11-27,Concluída,9.37,5446.71,6341.54,Mecânica,Falha inesperada,29
+328,COLH-048,Colhedora,Preventiva,3,2024-02-22,2024-03-19,Concluída,3.86,8153.9,8847.51,Elétrica,Manutenção programada,26
+329,COLH-012,Colhedora,Preventiva,1,2024-03-14,2024-03-31,Concluída,2.08,4904.08,4362.8099999999995,Hidráulica,Manutenção programada,17
+330,COLH-022,Colhedora,Corretiva,3,2024-02-15,2024-03-02,Aberta,6.06,4470.27,3848.3300000000004,Elétrica,Falha inesperada,16
+331,COLH-022,Colhedora,Preventiva,5,2024-01-13,2024-02-05,Concluída,2.25,6562.63,6790.78,Elétrica,Manutenção programada,23
+332,COLH-046,Colhedora,Preventiva,4,2024-06-13,2024-06-16,Em execução,2.47,3735.62,4061.88,Hidráulica,Manutenção programada,3
+333,COLH-030,Colhedora,Corretiva,2,2024-04-11,2024-05-02,Em execução,7.48,4077.92,4986.7,Elétrica,Falha inesperada,21
+334,COLH-038,Colhedora,Preventiva,5,2024-10-06,2024-11-01,Aberta,2.14,4087.48,4798.12,Hidráulica,Manutenção programada,26
+335,COLH-038,Colhedora,Preventiva,4,2024-09-14,2024-09-18,Concluída,1.76,4616.19,6083.139999999999,Mecânica,Manutenção programada,4
+336,COLH-045,Colhedora,Corretiva,3,2024-12-02,2024-12-12,Concluída,8.52,4681.7,4607.95,Elétrica,Falha inesperada,10
+337,COLH-008,Colhedora,Preventiva,5,2024-12-21,2024-12-26,Em execução,2.82,6048.65,5929.219999999999,Hidráulica,Manutenção programada,5
+338,COLH-027,Colhedora,Corretiva,4,2024-05-17,2024-06-07,Concluída,6.69,4486.46,4018.61,Hidráulica,Falha inesperada,21
+339,COLH-027,Colhedora,Preventiva,1,2024-06-11,2024-07-03,Concluída,3.08,6109.2,7008.73,Elétrica,Manutenção programada,22
+340,COLH-034,Colhedora,Corretiva,1,2024-04-20,2024-04-30,Em execução,3.44,6296.27,6613.67,Mecânica,Falha inesperada,10
+341,COLH-021,Colhedora,Corretiva,2,2024-04-11,2024-04-23,Concluída,8.79,4019.73,2836.85,Elétrica,Falha inesperada,12
+342,COLH-030,Colhedora,Preventiva,4,2024-01-17,2024-01-27,Concluída,2.58,6264.06,6725.790000000001,Hidráulica,Manutenção programada,10
+343,COLH-033,Colhedora,Corretiva,1,2024-09-24,2024-10-23,Concluída,8.72,6400.13,6912.91,Mecânica,Falha inesperada,29
+344,COLH-028,Colhedora,Corretiva,3,2024-06-30,2024-07-13,Concluída,9.2,2358.6,2543.12,Elétrica,Falha inesperada,13
+345,COLH-047,Colhedora,Corretiva,4,2024-01-24,2024-02-04,Concluída,11.39,5440.22,5977.54,Hidráulica,Falha inesperada,11
+346,COLH-033,Colhedora,Corretiva,3,2024-01-29,2024-02-20,Aberta,8.31,4240.39,3564.2000000000003,Elétrica,Falha inesperada,22
+347,COLH-005,Colhedora,Preventiva,3,2024-06-19,2024-07-05,Em execução,4.07,6954.6,8567.43,Mecânica,Manutenção programada,16
+348,COLH-048,Colhedora,Corretiva,1,2024-08-15,2024-08-23,Aberta,7.03,4225.09,4829.3,Mecânica,Falha inesperada,8
+349,COLH-019,Colhedora,Corretiva,4,2024-07-06,2024-07-14,Concluída,7.18,2990.78,1871.8200000000002,Mecânica,Falha inesperada,8
+350,COLH-004,Colhedora,Corretiva,5,2024-12-11,2025-01-07,Em execução,7.73,4955.27,5250.55,Mecânica,Falha inesperada,27
+351,COLH-035,Colhedora,Preventiva,1,2024-08-17,2024-09-11,Em execução,3.77,3654.54,4279.92,Mecânica,Manutenção programada,25
+352,COLH-049,Colhedora,Preventiva,1,2024-11-16,2024-11-24,Concluída,3.63,6274.38,5684.03,Elétrica,Manutenção programada,8
+353,COLH-017,Colhedora,Corretiva,4,2024-12-05,2024-12-18,Concluída,8.41,3787.08,4513.98,Mecânica,Falha inesperada,13
+354,COLH-044,Colhedora,Corretiva,4,2024-04-28,2024-05-25,Concluída,4.32,4973.74,6618.48,Mecânica,Falha inesperada,27
+355,COLH-028,Colhedora,Corretiva,3,2024-06-04,2024-06-06,Aberta,9.84,7318.72,7103.22,Hidráulica,Falha inesperada,2
+356,COLH-030,Colhedora,Corretiva,4,2024-09-28,2024-10-10,Aberta,5.42,6647.79,7290.54,Mecânica,Falha inesperada,12
+357,COLH-029,Colhedora,Preventiva,3,2024-06-23,2024-07-03,Concluída,2.08,5716.76,6183.64,Hidráulica,Manutenção programada,10
+358,COLH-046,Colhedora,Corretiva,1,2024-04-13,2024-04-25,Em execução,4.58,4808.63,5883.26,Hidráulica,Falha inesperada,12
+359,COLH-006,Colhedora,Corretiva,2,2024-04-01,2024-04-12,Aberta,7.75,5574.34,5787.27,Hidráulica,Falha inesperada,11
+360,COLH-035,Colhedora,Corretiva,5,2024-07-04,2024-07-19,Concluída,11.64,6033.48,5480.11,Elétrica,Falha inesperada,15
+361,COLH-041,Colhedora,Preventiva,1,2024-10-09,2024-10-25,Concluída,2.03,3520.1,4543.45,Elétrica,Manutenção programada,16
+362,COLH-037,Colhedora,Corretiva,4,2024-06-29,2024-07-16,Concluída,13.04,6277.01,5771.2,Hidráulica,Falha inesperada,17
+363,COLH-024,Colhedora,Corretiva,5,2024-06-18,2024-07-14,Concluída,10.73,3347.46,5094.55,Elétrica,Falha inesperada,26
+364,COLH-029,Colhedora,Corretiva,2,2024-07-05,2024-07-07,Concluída,3.61,5858.68,6607.3,Mecânica,Falha inesperada,2
+365,COLH-049,Colhedora,Corretiva,2,2024-06-23,2024-07-11,Em execução,6.85,3339.66,3160.5499999999997,Elétrica,Falha inesperada,18
+366,COLH-046,Colhedora,Preventiva,3,2024-08-09,2024-08-21,Concluída,1.96,7944.19,9131.11,Mecânica,Manutenção programada,12
+367,COLH-031,Colhedora,Corretiva,5,2024-08-20,2024-09-08,Em execução,9.99,6145.01,6437.66,Mecânica,Falha inesperada,19
+368,COLH-035,Colhedora,Preventiva,3,2024-06-10,2024-07-06,Em execução,2.01,2665.96,2788.84,Elétrica,Manutenção programada,26
+369,COLH-033,Colhedora,Preventiva,1,2024-05-13,2024-06-05,Concluída,1.38,4998.61,4753.91,Elétrica,Manutenção programada,23
+370,COLH-021,Colhedora,Corretiva,5,2024-08-11,2024-08-29,Em execução,7.02,4217.87,3015.33,Hidráulica,Falha inesperada,18
+371,COLH-032,Colhedora,Corretiva,1,2024-06-01,2024-06-18,Concluída,11.51,4040.41,4823.92,Elétrica,Falha inesperada,17
+372,COLH-023,Colhedora,Preventiva,3,2024-02-02,2024-02-08,Em execução,2.81,5220.66,4218.16,Elétrica,Manutenção programada,6
+373,COLH-033,Colhedora,Corretiva,5,2024-02-24,2024-03-20,Concluída,9.2,3608.01,3273.3700000000003,Elétrica,Falha inesperada,25
+374,COLH-003,Colhedora,Corretiva,3,2024-01-07,2024-01-22,Concluída,9.31,6142.2,6788.48,Mecânica,Falha inesperada,15
+375,COLH-018,Colhedora,Preventiva,5,2024-08-31,2024-09-03,Em execução,1.49,6056.98,5956.44,Mecânica,Manutenção programada,3
+376,COLH-025,Colhedora,Corretiva,3,2024-11-08,2024-11-14,Aberta,5.3,5527.14,5952.860000000001,Mecânica,Falha inesperada,6
+377,COLH-042,Colhedora,Corretiva,2,2024-05-05,2024-05-08,Concluída,8.02,4970.74,4299.78,Hidráulica,Falha inesperada,3
+378,COLH-031,Colhedora,Corretiva,3,2024-01-12,2024-02-10,Concluída,6.33,5989.73,6010.959999999999,Hidráulica,Falha inesperada,29
+379,COLH-003,Colhedora,Preventiva,2,2024-01-16,2024-01-17,Concluída,4.7,6187.08,6617.79,Hidráulica,Manutenção programada,1
+380,COLH-040,Colhedora,Corretiva,3,2024-07-26,2024-08-08,Concluída,4.32,5682.38,5221.2,Mecânica,Falha inesperada,13
+381,COLH-046,Colhedora,Corretiva,5,2024-02-12,2024-03-11,Concluída,5.27,3032.19,4681.28,Elétrica,Falha inesperada,28
+382,COLH-024,Colhedora,Corretiva,5,2024-05-14,2024-06-04,Concluída,8.87,3817.42,3607.48,Hidráulica,Falha inesperada,21
+383,COLH-032,Colhedora,Corretiva,5,2024-08-15,2024-09-10,Concluída,6.12,4597.91,6000.639999999999,Hidráulica,Falha inesperada,26
+384,COLH-047,Colhedora,Corretiva,4,2024-04-20,2024-05-04,Concluída,0.68,2786.31,2952.0699999999997,Mecânica,Falha inesperada,14
+385,COLH-022,Colhedora,Corretiva,1,2024-11-02,2024-11-15,Concluída,13.8,5336.0,4381.22,Hidráulica,Falha inesperada,13
+386,COLH-023,Colhedora,Corretiva,5,2024-06-08,2024-07-05,Concluída,4.78,7116.51,6506.99,Elétrica,Falha inesperada,27
+387,COLH-002,Colhedora,Corretiva,2,2024-11-26,2024-11-30,Concluída,9.68,6877.54,7318.4,Mecânica,Falha inesperada,4
+388,COLH-027,Colhedora,Corretiva,5,2024-09-20,2024-09-27,Concluída,4.24,6109.44,7235.66,Mecânica,Falha inesperada,7
+389,COLH-042,Colhedora,Corretiva,4,2024-08-12,2024-09-03,Concluída,5.41,6091.57,7807.389999999999,Elétrica,Falha inesperada,22
+390,COLH-002,Colhedora,Corretiva,2,2024-08-04,2024-08-14,Em execução,3.13,8322.94,8725.51,Elétrica,Falha inesperada,10
+391,COLH-026,Colhedora,Corretiva,4,2024-02-14,2024-02-21,Aberta,5.78,6265.8,5624.01,Elétrica,Falha inesperada,7
+392,COLH-017,Colhedora,Preventiva,2,2024-08-01,2024-08-22,Concluída,2.36,6388.45,6911.24,Hidráulica,Manutenção programada,21
+393,COLH-040,Colhedora,Corretiva,3,2024-02-28,2024-03-14,Concluída,7.6,2841.63,2481.46,Elétrica,Falha inesperada,15
+394,COLH-033,Colhedora,Corretiva,1,2024-05-11,2024-05-26,Concluída,6.88,6999.23,7612.98,Mecânica,Falha inesperada,15
+395,COLH-009,Colhedora,Corretiva,1,2024-04-13,2024-04-17,Em execução,3.68,5597.75,5144.57,Elétrica,Falha inesperada,4
+396,COLH-043,Colhedora,Preventiva,4,2024-07-13,2024-08-05,Concluída,2.48,4880.32,3508.66,Mecânica,Manutenção programada,23
+397,COLH-048,Colhedora,Preventiva,1,2024-06-05,2024-06-28,Concluída,4.45,4508.54,5862.02,Mecânica,Manutenção programada,23
+398,COLH-039,Colhedora,Corretiva,4,2024-04-07,2024-04-13,Em execução,11.99,4177.11,4295.98,Hidráulica,Falha inesperada,6
+399,COLH-029,Colhedora,Corretiva,4,2024-08-13,2024-09-06,Concluída,9.37,6885.17,7224.9,Elétrica,Falha inesperada,24
+400,COLH-042,Colhedora,Preventiva,4,2024-07-23,2024-08-12,Concluída,3.66,4957.46,6054.82,Hidráulica,Manutenção programada,20
+401,COLH-026,Colhedora,Corretiva,1,2024-03-19,2024-04-14,Concluída,14.18,4232.48,6035.5599999999995,Elétrica,Falha inesperada,26
+402,COLH-035,Colhedora,Corretiva,4,2024-05-03,2024-05-08,Concluída,9.71,3842.68,4718.74,Elétrica,Falha inesperada,5
+403,COLH-025,Colhedora,Corretiva,1,2024-08-05,2024-08-25,Concluída,9.93,5255.9,5638.299999999999,Elétrica,Falha inesperada,20
+404,COLH-024,Colhedora,Corretiva,4,2024-01-04,2024-01-16,Concluída,3.31,4460.59,5130.89,Elétrica,Falha inesperada,12
+405,COLH-013,Colhedora,Preventiva,5,2024-03-30,2024-03-31,Concluída,1.89,4118.37,4182.54,Elétrica,Manutenção programada,1
+406,COLH-007,Colhedora,Preventiva,4,2024-04-13,2024-05-11,Concluída,2.97,2926.77,3255.66,Mecânica,Manutenção programada,28
+407,COLH-036,Colhedora,Corretiva,2,2024-04-28,2024-05-06,Concluída,5.58,6439.04,6854.93,Mecânica,Falha inesperada,8
+408,COLH-045,Colhedora,Corretiva,4,2024-05-12,2024-05-13,Concluída,5.01,4792.97,4463.67,Elétrica,Falha inesperada,1
+409,COLH-020,Colhedora,Preventiva,3,2024-11-07,2024-11-12,Em execução,2.12,3372.14,3689.08,Mecânica,Manutenção programada,5
+410,COLH-001,Colhedora,Preventiva,4,2024-04-05,2024-04-27,Concluída,1.58,4593.15,5186.83,Hidráulica,Manutenção programada,22
+411,COLH-008,Colhedora,Corretiva,2,2024-11-26,2024-12-02,Aberta,5.63,5823.7,6537.3099999999995,Hidráulica,Falha inesperada,6
+412,COLH-046,Colhedora,Preventiva,2,2024-05-22,2024-06-20,Concluída,3.34,5043.26,5693.12,Hidráulica,Manutenção programada,29
+413,COLH-016,Colhedora,Preventiva,1,2024-10-14,2024-11-04,Concluída,4.8,5286.49,4515.2699999999995,Elétrica,Manutenção programada,21
+414,COLH-014,Colhedora,Preventiva,5,2024-01-28,2024-01-31,Em execução,3.8,5063.82,6347.23,Elétrica,Manutenção programada,3
+415,COLH-012,Colhedora,Corretiva,4,2024-10-04,2024-10-19,Concluída,9.91,3084.72,4301.74,Mecânica,Falha inesperada,15
+416,COLH-023,Colhedora,Corretiva,1,2024-08-20,2024-08-25,Aberta,3.13,6422.76,6645.84,Mecânica,Falha inesperada,5
+417,COLH-015,Colhedora,Preventiva,5,2024-01-17,2024-02-14,Concluída,3.12,2437.63,3102.04,Mecânica,Manutenção programada,28
+418,COLH-028,Colhedora,Corretiva,4,2024-02-28,2024-03-23,Concluída,7.8,5692.3,5819.06,Hidráulica,Falha inesperada,24
+419,COLH-034,Colhedora,Preventiva,3,2024-03-30,2024-04-13,Concluída,3.29,5923.36,6824.929999999999,Hidráulica,Manutenção programada,14
+420,COLH-002,Colhedora,Corretiva,4,2024-07-17,2024-08-04,Em execução,6.92,4670.23,4318.8099999999995,Hidráulica,Falha inesperada,18
+421,COLH-032,Colhedora,Corretiva,2,2024-12-27,2025-01-12,Em execução,12.99,5530.13,6904.1,Hidráulica,Falha inesperada,16
+422,COLH-023,Colhedora,Corretiva,2,2024-01-26,2024-02-01,Concluída,8.16,4584.3,5446.07,Mecânica,Falha inesperada,6
+423,COLH-022,Colhedora,Corretiva,3,2024-01-25,2024-02-19,Concluída,8.45,5548.24,6428.59,Elétrica,Falha inesperada,25
+424,COLH-025,Colhedora,Preventiva,1,2024-10-27,2024-11-20,Concluída,1.04,6489.38,6705.34,Elétrica,Manutenção programada,24
+425,COLH-022,Colhedora,Preventiva,5,2024-12-04,2024-12-18,Concluída,2.89,3811.81,2981.72,Hidráulica,Manutenção programada,14
+426,COLH-022,Colhedora,Preventiva,4,2024-09-23,2024-10-20,Concluída,4.15,6010.95,7018.099999999999,Elétrica,Manutenção programada,27
+427,COLH-049,Colhedora,Corretiva,2,2024-06-29,2024-07-23,Concluída,9.67,7538.6,6734.950000000001,Elétrica,Falha inesperada,24
+428,COLH-042,Colhedora,Corretiva,1,2024-12-25,2025-01-02,Concluída,1.53,5396.85,6413.63,Elétrica,Falha inesperada,8
+429,COLH-006,Colhedora,Corretiva,3,2024-03-08,2024-04-06,Em execução,6.65,4245.34,3927.6400000000003,Hidráulica,Falha inesperada,29
+430,COLH-015,Colhedora,Corretiva,2,2024-12-16,2024-12-23,Em execução,13.2,8394.85,7425.21,Mecânica,Falha inesperada,7
+431,COLH-043,Colhedora,Corretiva,3,2024-11-16,2024-11-24,Concluída,7.55,5133.06,5433.860000000001,Mecânica,Falha inesperada,8
+432,COLH-037,Colhedora,Corretiva,4,2024-02-18,2024-03-02,Aberta,8.97,5347.29,6593.53,Elétrica,Falha inesperada,13
+433,COLH-033,Colhedora,Corretiva,5,2024-06-23,2024-06-29,Concluída,12.86,5378.56,4906.08,Mecânica,Falha inesperada,6
+434,COLH-008,Colhedora,Corretiva,2,2024-02-21,2024-03-10,Concluída,7.54,5671.79,7251.02,Mecânica,Falha inesperada,18
+435,COLH-044,Colhedora,Preventiva,2,2024-04-11,2024-04-13,Em execução,3.79,4491.69,5317.08,Hidráulica,Manutenção programada,2
+436,COLH-044,Colhedora,Preventiva,4,2024-08-03,2024-08-11,Aberta,3.41,5284.99,5710.4,Hidráulica,Manutenção programada,8
+437,COLH-005,Colhedora,Corretiva,1,2024-07-06,2024-07-17,Concluída,9.88,6428.28,6379.78,Elétrica,Falha inesperada,11
+438,COLH-039,Colhedora,Corretiva,5,2024-02-26,2024-02-27,Concluída,9.14,4439.9,4447.179999999999,Elétrica,Falha inesperada,1
+439,COLH-004,Colhedora,Preventiva,2,2024-02-16,2024-03-09,Concluída,2.45,4370.01,5014.14,Elétrica,Manutenção programada,22
+440,COLH-006,Colhedora,Corretiva,5,2024-06-07,2024-07-06,Concluída,6.66,4561.87,5538.7,Hidráulica,Falha inesperada,29
+441,COLH-045,Colhedora,Preventiva,2,2024-06-22,2024-06-28,Concluída,2.15,3353.34,3178.54,Mecânica,Manutenção programada,6
+442,COLH-032,Colhedora,Preventiva,5,2024-08-29,2024-09-14,Concluída,1.36,3975.74,3630.5299999999997,Hidráulica,Manutenção programada,16
+443,COLH-030,Colhedora,Corretiva,3,2024-10-08,2024-11-04,Concluída,11.73,3914.63,4043.57,Hidráulica,Falha inesperada,27
+444,COLH-047,Colhedora,Corretiva,2,2024-08-28,2024-09-17,Concluída,8.03,4999.22,6414.120000000001,Mecânica,Falha inesperada,20
+445,COLH-035,Colhedora,Corretiva,5,2024-01-05,2024-01-17,Concluída,11.58,6254.22,5580.71,Mecânica,Falha inesperada,12
+446,COLH-040,Colhedora,Corretiva,1,2024-03-24,2024-04-04,Em execução,12.7,7180.57,8394.55,Elétrica,Falha inesperada,11
+447,COLH-016,Colhedora,Corretiva,3,2024-11-03,2024-12-02,Concluída,8.16,5085.78,5419.599999999999,Mecânica,Falha inesperada,29
+448,COLH-013,Colhedora,Preventiva,3,2024-12-26,2025-01-22,Concluída,1.69,5684.7,4662.51,Mecânica,Manutenção programada,27
+449,COLH-042,Colhedora,Corretiva,1,2024-09-04,2024-10-03,Em execução,7.41,5365.09,5295.78,Mecânica,Falha inesperada,29
+450,COLH-030,Colhedora,Corretiva,5,2024-02-23,2024-03-04,Aberta,5.99,1859.84,2647.5699999999997,Mecânica,Falha inesperada,10
+451,COLH-019,Colhedora,Preventiva,4,2024-06-09,2024-06-12,Concluída,1.02,3278.16,5019.61,Elétrica,Manutenção programada,3
+452,COLH-017,Colhedora,Preventiva,1,2024-08-13,2024-08-26,Concluída,2.5,6141.9,5380.0,Elétrica,Manutenção programada,13
+453,COLH-019,Colhedora,Corretiva,5,2024-01-15,2024-02-11,Concluída,7.79,6287.73,4332.389999999999,Mecânica,Falha inesperada,27
+454,COLH-028,Colhedora,Corretiva,1,2024-08-11,2024-08-14,Aberta,6.07,6253.41,5505.7699999999995,Mecânica,Falha inesperada,3
+455,COLH-026,Colhedora,Corretiva,1,2024-03-01,2024-03-16,Aberta,5.69,4733.28,5937.61,Elétrica,Falha inesperada,15
+456,COLH-037,Colhedora,Preventiva,2,2024-05-01,2024-05-17,Concluída,1.72,2007.75,872.76,Elétrica,Manutenção programada,16
+457,COLH-026,Colhedora,Corretiva,5,2024-10-03,2024-11-01,Concluída,8.59,3457.21,4955.01,Mecânica,Falha inesperada,29
+458,COLH-023,Colhedora,Corretiva,4,2024-02-15,2024-02-28,Concluída,13.61,3686.74,4958.59,Hidráulica,Falha inesperada,13
+459,COLH-009,Colhedora,Preventiva,2,2024-10-20,2024-11-06,Concluída,4.28,5943.15,6395.98,Elétrica,Manutenção programada,17
+460,COLH-012,Colhedora,Corretiva,1,2024-03-02,2024-03-05,Concluída,9.96,4463.94,4262.849999999999,Elétrica,Falha inesperada,3
+461,COLH-001,Colhedora,Preventiva,1,2024-03-26,2024-04-15,Concluída,3.68,7535.6,7879.81,Elétrica,Manutenção programada,20
+462,COLH-001,Colhedora,Preventiva,1,2024-07-28,2024-08-08,Concluída,2.87,7201.46,7990.33,Mecânica,Manutenção programada,11
+463,COLH-047,Colhedora,Corretiva,5,2024-03-18,2024-04-14,Concluída,2.59,7510.55,8177.33,Mecânica,Falha inesperada,27
+464,COLH-034,Colhedora,Preventiva,5,2024-07-20,2024-08-10,Concluída,2.63,3625.23,5316.96,Elétrica,Manutenção programada,21
+465,COLH-032,Colhedora,Corretiva,2,2024-10-28,2024-11-16,Concluída,5.09,5736.34,5828.26,Mecânica,Falha inesperada,19
+466,COLH-048,Colhedora,Preventiva,4,2024-08-10,2024-09-01,Concluída,3.15,4283.71,3543.04,Mecânica,Manutenção programada,22
+467,COLH-025,Colhedora,Corretiva,2,2024-08-09,2024-08-20,Concluída,11.7,5491.81,4609.990000000001,Elétrica,Falha inesperada,11
+468,COLH-040,Colhedora,Preventiva,3,2024-01-03,2024-01-31,Em execução,4.97,3791.58,2749.75,Mecânica,Manutenção programada,28
+469,COLH-045,Colhedora,Corretiva,1,2024-01-06,2024-01-22,Concluída,8.19,6839.23,7296.25,Hidráulica,Falha inesperada,16
+470,COLH-001,Colhedora,Preventiva,1,2024-04-02,2024-04-23,Em execução,1.33,3819.6,3932.11,Mecânica,Manutenção programada,21
+471,COLH-016,Colhedora,Preventiva,1,2024-01-08,2024-01-11,Concluída,3.06,2079.14,2405.2599999999998,Mecânica,Manutenção programada,3
+472,COLH-039,Colhedora,Corretiva,2,2024-08-22,2024-09-13,Concluída,8.27,8050.67,7921.02,Elétrica,Falha inesperada,22
+473,COLH-005,Colhedora,Preventiva,2,2024-04-17,2024-04-23,Concluída,3.68,5663.75,5075.62,Elétrica,Manutenção programada,6
+474,COLH-022,Colhedora,Corretiva,1,2024-06-09,2024-06-23,Aberta,7.94,3396.31,4187.78,Hidráulica,Falha inesperada,14
+475,COLH-029,Colhedora,Corretiva,2,2024-07-27,2024-08-20,Concluída,8.2,4756.59,3086.1400000000003,Mecânica,Falha inesperada,24
+476,COLH-003,Colhedora,Corretiva,5,2024-08-27,2024-09-14,Concluída,6.1,4134.71,3793.4300000000003,Hidráulica,Falha inesperada,18
+477,COLH-012,Colhedora,Corretiva,5,2024-11-26,2024-12-13,Concluída,7.06,5008.61,5937.799999999999,Hidráulica,Falha inesperada,17
+478,COLH-026,Colhedora,Corretiva,2,2024-11-28,2024-12-02,Concluída,9.54,6204.17,5783.5,Elétrica,Falha inesperada,4
+479,COLH-016,Colhedora,Preventiva,1,2024-02-19,2024-03-13,Concluída,0.99,5968.67,6582.01,Mecânica,Manutenção programada,23
+480,COLH-037,Colhedora,Corretiva,2,2024-01-11,2024-01-26,Concluída,7.05,5380.59,5040.38,Elétrica,Falha inesperada,15
+481,COLH-022,Colhedora,Preventiva,2,2024-12-16,2024-12-27,Em execução,3.69,5007.88,4943.2,Hidráulica,Manutenção programada,11
+482,COLH-029,Colhedora,Corretiva,2,2024-06-04,2024-06-30,Em execução,12.92,6618.01,7377.950000000001,Hidráulica,Falha inesperada,26
+483,COLH-014,Colhedora,Preventiva,3,2024-03-10,2024-03-13,Concluída,2.6,2111.81,1389.53,Elétrica,Manutenção programada,3
+484,COLH-028,Colhedora,Preventiva,5,2024-06-17,2024-06-20,Concluída,4.19,3876.6,4772.82,Elétrica,Manutenção programada,3
+485,COLH-005,Colhedora,Corretiva,4,2024-09-28,2024-10-14,Em execução,13.07,3532.01,3868.75,Elétrica,Falha inesperada,16
+486,COLH-047,Colhedora,Preventiva,4,2024-03-08,2024-03-13,Em execução,2.61,6509.39,7814.540000000001,Elétrica,Manutenção programada,5
+487,COLH-049,Colhedora,Corretiva,3,2024-12-20,2025-01-10,Em execução,6.33,3891.36,4357.88,Elétrica,Falha inesperada,21
+488,COLH-030,Colhedora,Preventiva,2,2024-09-08,2024-10-07,Concluída,2.82,3071.07,2515.48,Hidráulica,Manutenção programada,29
+489,COLH-046,Colhedora,Corretiva,3,2024-02-17,2024-02-27,Concluída,7.75,5823.99,7506.389999999999,Elétrica,Falha inesperada,10
+490,COLH-005,Colhedora,Preventiva,3,2024-07-02,2024-07-21,Concluída,4.09,3636.88,3148.13,Mecânica,Manutenção programada,19
+491,COLH-012,Colhedora,Corretiva,1,2024-11-15,2024-12-10,Concluída,5.68,4473.91,4592.19,Hidráulica,Falha inesperada,25
+492,COLH-016,Colhedora,Corretiva,5,2024-07-05,2024-07-09,Concluída,12.61,8571.72,9637.65,Hidráulica,Falha inesperada,4
+493,COLH-026,Colhedora,Preventiva,4,2024-03-30,2024-04-28,Aberta,2.2,6180.71,4976.77,Mecânica,Manutenção programada,29
+494,COLH-026,Colhedora,Corretiva,2,2024-11-27,2024-12-26,Aberta,4.21,4683.44,6135.179999999999,Mecânica,Falha inesperada,29
+495,COLH-048,Colhedora,Corretiva,4,2024-05-18,2024-06-06,Em execução,9.57,4818.31,4197.6,Hidráulica,Falha inesperada,19
+496,COLH-021,Colhedora,Corretiva,4,2024-12-22,2025-01-02,Concluída,11.69,6361.23,6297.23,Elétrica,Falha inesperada,11
+497,COLH-039,Colhedora,Corretiva,5,2024-03-29,2024-03-31,Concluída,8.54,5994.31,6525.400000000001,Hidráulica,Falha inesperada,2
+498,COLH-036,Colhedora,Corretiva,4,2024-09-30,2024-10-10,Em execução,9.31,5113.4,5380.04,Hidráulica,Falha inesperada,10
+499,COLH-033,Colhedora,Corretiva,4,2024-01-19,2024-02-17,Concluída,13.86,5155.34,6086.68,Mecânica,Falha inesperada,29
+500,COLH-030,Colhedora,Corretiva,3,2024-11-06,2024-11-17,Concluída,11.73,2780.23,1799.58,Hidráulica,Falha inesperada,11
+501,COLH-037,Colhedora,Corretiva,5,2024-12-23,2025-01-17,Concluída,8.09,2464.98,3346.94,Elétrica,Falha inesperada,25
+502,COLH-023,Colhedora,Preventiva,1,2024-06-02,2024-06-22,Em execução,2.57,4734.77,5680.56,Mecânica,Manutenção programada,20
+503,COLH-010,Colhedora,Corretiva,2,2024-09-16,2024-10-02,Concluída,11.29,4050.07,5173.450000000001,Hidráulica,Falha inesperada,16
+504,COLH-005,Colhedora,Corretiva,4,2024-04-17,2024-05-06,Concluída,10.49,5879.12,4907.389999999999,Hidráulica,Falha inesperada,19
+505,COLH-036,Colhedora,Corretiva,2,2024-10-11,2024-11-03,Em execução,9.26,5295.77,4420.620000000001,Elétrica,Falha inesperada,23
+506,COLH-034,Colhedora,Corretiva,1,2024-02-28,2024-03-23,Concluída,7.02,3840.84,3866.94,Hidráulica,Falha inesperada,24
+507,COLH-031,Colhedora,Preventiva,2,2024-05-04,2024-05-15,Aberta,2.92,5244.8,4456.14,Hidráulica,Manutenção programada,11
+508,COLH-010,Colhedora,Corretiva,1,2024-12-19,2025-01-02,Concluída,7.56,4372.65,3229.4799999999996,Hidráulica,Falha inesperada,14
+509,COLH-019,Colhedora,Corretiva,3,2024-09-29,2024-10-01,Concluída,7.07,8099.9,8091.53,Hidráulica,Falha inesperada,2
+510,COLH-032,Colhedora,Preventiva,4,2024-04-16,2024-05-09,Concluída,2.4,5579.36,6066.629999999999,Elétrica,Manutenção programada,23
+511,COLH-001,Colhedora,Preventiva,1,2024-10-25,2024-11-22,Concluída,3.27,2659.09,5198.27,Hidráulica,Manutenção programada,28
+512,COLH-005,Colhedora,Corretiva,2,2024-09-01,2024-09-06,Concluída,6.06,7730.77,8469.710000000001,Hidráulica,Falha inesperada,5
+513,COLH-045,Colhedora,Preventiva,4,2024-12-01,2024-12-28,Concluída,3.18,4050.28,5752.1,Hidráulica,Manutenção programada,27
+514,COLH-004,Colhedora,Preventiva,3,2024-09-03,2024-09-08,Concluída,0.9,3537.89,3802.5699999999997,Mecânica,Manutenção programada,5
+515,COLH-016,Colhedora,Corretiva,4,2024-01-08,2024-01-27,Concluída,6.2,8215.53,8963.18,Elétrica,Falha inesperada,19
+516,COLH-024,Colhedora,Preventiva,1,2024-05-20,2024-06-10,Concluída,4.1,5518.75,5701.84,Mecânica,Manutenção programada,21
+517,COLH-016,Colhedora,Preventiva,3,2024-12-27,2025-01-08,Concluída,2.1,6051.15,8497.65,Mecânica,Manutenção programada,12
+518,COLH-002,Colhedora,Corretiva,2,2024-01-08,2024-01-26,Concluída,9.78,6099.59,5851.12,Elétrica,Falha inesperada,18
+519,COLH-049,Colhedora,Corretiva,3,2024-12-17,2024-12-21,Concluída,5.55,4691.02,4551.040000000001,Mecânica,Falha inesperada,4
+520,COLH-028,Colhedora,Corretiva,3,2024-04-03,2024-04-25,Concluída,10.33,4141.39,5078.620000000001,Mecânica,Falha inesperada,22
+521,COLH-032,Colhedora,Preventiva,5,2024-11-16,2024-12-03,Concluída,2.7,4386.11,4852.09,Mecânica,Manutenção programada,17
+522,COLH-027,Colhedora,Preventiva,3,2024-02-08,2024-02-18,Concluída,2.66,7413.3,7373.97,Elétrica,Manutenção programada,10
+523,COLH-020,Colhedora,Preventiva,3,2024-03-21,2024-04-10,Concluída,3.05,5305.68,6373.9800000000005,Hidráulica,Manutenção programada,20
+524,COLH-024,Colhedora,Corretiva,4,2024-07-05,2024-07-11,Concluída,3.97,6969.37,7236.45,Elétrica,Falha inesperada,6
+525,COLH-012,Colhedora,Corretiva,2,2024-03-24,2024-04-18,Concluída,10.92,4885.33,5146.7699999999995,Elétrica,Falha inesperada,25
+526,COLH-035,Colhedora,Corretiva,4,2024-03-28,2024-04-11,Concluída,11.91,3866.92,4351.39,Elétrica,Falha inesperada,14
+527,COLH-033,Colhedora,Corretiva,4,2024-08-29,2024-09-09,Concluída,6.92,2836.68,1749.3799999999999,Mecânica,Falha inesperada,11
+528,COLH-033,Colhedora,Corretiva,1,2024-12-07,2024-12-18,Concluída,9.57,5972.0,4997.4,Hidráulica,Falha inesperada,11
+529,COLH-043,Colhedora,Preventiva,4,2024-04-02,2024-05-01,Concluída,3.78,7541.15,8710.67,Elétrica,Manutenção programada,29
+530,COLH-037,Colhedora,Corretiva,5,2024-03-26,2024-04-13,Concluída,7.73,3671.04,3429.47,Elétrica,Falha inesperada,18
+531,COLH-012,Colhedora,Preventiva,5,2024-02-13,2024-03-11,Concluída,1.89,5770.06,5963.700000000001,Hidráulica,Manutenção programada,27
+532,COLH-003,Colhedora,Corretiva,1,2024-05-16,2024-06-08,Concluída,12.78,2936.58,4526.53,Hidráulica,Falha inesperada,23
+533,COLH-001,Colhedora,Corretiva,2,2024-03-14,2024-04-05,Aberta,6.82,4166.45,4396.16,Hidráulica,Falha inesperada,22
+534,COLH-033,Colhedora,Corretiva,2,2024-02-05,2024-02-23,Em execução,6.17,5401.91,5533.84,Mecânica,Falha inesperada,18
+535,COLH-040,Colhedora,Corretiva,4,2024-04-10,2024-05-04,Aberta,12.92,2407.56,3424.42,Hidráulica,Falha inesperada,24
+536,COLH-010,Colhedora,Preventiva,4,2024-06-04,2024-06-27,Concluída,3.61,4972.97,4794.360000000001,Mecânica,Manutenção programada,23
+537,COLH-043,Colhedora,Corretiva,4,2024-09-11,2024-09-22,Em execução,8.77,3744.95,5007.29,Elétrica,Falha inesperada,11
+538,COLH-044,Colhedora,Preventiva,2,2024-06-19,2024-07-10,Em execução,2.03,5907.14,6907.59,Mecânica,Manutenção programada,21
+539,COLH-029,Colhedora,Corretiva,3,2024-08-03,2024-08-15,Concluída,10.41,4751.9,6516.17,Hidráulica,Falha inesperada,12
+540,COLH-013,Colhedora,Preventiva,5,2024-06-18,2024-06-23,Concluída,5.9,6409.16,6156.889999999999,Mecânica,Manutenção programada,5
+541,COLH-012,Colhedora,Corretiva,3,2024-09-08,2024-10-01,Concluída,10.64,4580.6,5974.18,Hidráulica,Falha inesperada,23
+542,COLH-031,Colhedora,Preventiva,3,2024-12-25,2025-01-03,Concluída,3.5,2956.43,3699.7,Mecânica,Manutenção programada,9
+543,COLH-046,Colhedora,Preventiva,2,2024-11-17,2024-12-14,Aberta,3.72,2769.56,2009.27,Elétrica,Manutenção programada,27
+544,COLH-002,Colhedora,Corretiva,3,2024-02-24,2024-03-20,Concluída,7.02,2136.49,359.5499999999997,Mecânica,Falha inesperada,25
+545,COLH-035,Colhedora,Corretiva,1,2024-03-31,2024-04-09,Concluída,6.99,5949.44,5611.0199999999995,Elétrica,Falha inesperada,9
+546,COLH-023,Colhedora,Preventiva,4,2024-10-04,2024-10-26,Concluída,2.65,8836.6,9370.48,Hidráulica,Manutenção programada,22
+547,COLH-017,Colhedora,Preventiva,1,2024-04-10,2024-04-20,Concluída,2.43,5652.86,6302.74,Elétrica,Manutenção programada,10
+548,COLH-026,Colhedora,Corretiva,5,2024-06-03,2024-06-25,Concluída,6.94,7508.07,7760.8099999999995,Hidráulica,Falha inesperada,22
+549,COLH-008,Colhedora,Preventiva,4,2024-12-14,2025-01-02,Concluída,2.64,6700.36,6960.259999999999,Hidráulica,Manutenção programada,19
+550,COLH-029,Colhedora,Preventiva,3,2024-12-29,2024-12-30,Concluída,2.76,4222.5,4421.71,Elétrica,Manutenção programada,1
+551,COLH-026,Colhedora,Preventiva,5,2024-05-20,2024-05-27,Em execução,2.73,6897.97,8022.9400000000005,Elétrica,Manutenção programada,7
+552,COLH-010,Colhedora,Preventiva,4,2024-06-21,2024-06-25,Em execução,3.24,4282.14,3433.1100000000006,Mecânica,Manutenção programada,4
+553,COLH-026,Colhedora,Preventiva,3,2024-01-10,2024-01-11,Em execução,3.08,4311.94,4826.57,Mecânica,Manutenção programada,1
+554,COLH-034,Colhedora,Corretiva,1,2024-08-15,2024-08-30,Em execução,8.5,4687.11,4328.91,Elétrica,Falha inesperada,15
+555,COLH-041,Colhedora,Corretiva,4,2024-09-21,2024-09-29,Concluída,12.57,4758.2,4332.969999999999,Elétrica,Falha inesperada,8
+556,COLH-007,Colhedora,Corretiva,3,2024-09-04,2024-09-16,Em execução,8.23,5992.05,7233.030000000001,Elétrica,Falha inesperada,12
+557,COLH-004,Colhedora,Preventiva,1,2024-09-03,2024-09-25,Concluída,5.21,3993.67,3507.06,Elétrica,Manutenção programada,22
+558,COLH-045,Colhedora,Preventiva,5,2024-06-03,2024-06-25,Em execução,3.35,6333.65,6522.04,Hidráulica,Manutenção programada,22
+559,COLH-011,Colhedora,Corretiva,5,2024-02-03,2024-02-21,Em execução,6.66,6312.12,8178.92,Elétrica,Falha inesperada,18
+560,COLH-029,Colhedora,Preventiva,5,2024-05-08,2024-05-23,Concluída,4.35,5514.45,6484.91,Elétrica,Manutenção programada,15
+561,COLH-036,Colhedora,Preventiva,5,2024-06-08,2024-06-25,Aberta,2.92,7909.42,7845.4400000000005,Elétrica,Manutenção programada,17
+562,COLH-025,Colhedora,Corretiva,2,2024-03-29,2024-04-27,Concluída,0.82,6931.09,6933.1900000000005,Elétrica,Falha inesperada,29
+563,COLH-021,Colhedora,Corretiva,4,2024-04-02,2024-04-16,Concluída,7.99,6604.59,5922.83,Hidráulica,Falha inesperada,14
+564,COLH-036,Colhedora,Corretiva,4,2024-11-22,2024-12-06,Em execução,7.25,5099.23,6439.75,Mecânica,Falha inesperada,14
+565,COLH-010,Colhedora,Corretiva,2,2024-08-28,2024-09-15,Aberta,12.82,5527.65,6636.73,Mecânica,Falha inesperada,18
+566,COLH-037,Colhedora,Corretiva,3,2024-11-18,2024-12-08,Concluída,5.31,5785.71,6634.99,Mecânica,Falha inesperada,20
+567,COLH-009,Colhedora,Corretiva,3,2024-04-26,2024-05-14,Aberta,7.0,5019.86,5957.33,Mecânica,Falha inesperada,18
+568,COLH-024,Colhedora,Corretiva,5,2024-04-03,2024-04-19,Em execução,11.8,4436.65,4117.03,Mecânica,Falha inesperada,16
+569,COLH-035,Colhedora,Corretiva,1,2024-06-11,2024-06-12,Em execução,9.18,1391.43,453.1,Hidráulica,Falha inesperada,1
+570,COLH-049,Colhedora,Corretiva,3,2024-04-08,2024-05-01,Em execução,7.49,6076.65,6825.08,Mecânica,Falha inesperada,23
+571,COLH-035,Colhedora,Corretiva,1,2024-04-22,2024-05-19,Concluída,5.73,6562.17,7573.02,Hidráulica,Falha inesperada,27
+572,COLH-048,Colhedora,Preventiva,4,2024-12-24,2025-01-04,Concluída,3.35,3258.32,4843.96,Hidráulica,Manutenção programada,11
+573,COLH-036,Colhedora,Corretiva,1,2024-03-31,2024-04-15,Concluída,7.91,5907.75,6047.04,Mecânica,Falha inesperada,15
+574,COLH-018,Colhedora,Preventiva,4,2024-12-11,2024-12-23,Em execução,2.23,4112.71,4135.31,Mecânica,Manutenção programada,12
+575,COLH-049,Colhedora,Preventiva,2,2024-07-24,2024-08-01,Em execução,2.28,4450.21,4558.8,Mecânica,Manutenção programada,8
+576,COLH-039,Colhedora,Corretiva,2,2024-01-17,2024-02-08,Concluída,5.56,6966.14,7802.740000000001,Elétrica,Falha inesperada,22
+577,COLH-032,Colhedora,Corretiva,5,2024-09-30,2024-10-20,Concluída,5.02,3514.05,3588.38,Hidráulica,Falha inesperada,20
+578,COLH-024,Colhedora,Corretiva,3,2024-06-21,2024-06-27,Concluída,10.8,3511.78,3769.9900000000002,Mecânica,Falha inesperada,6
+579,COLH-023,Colhedora,Corretiva,5,2024-04-25,2024-04-28,Concluída,10.4,7707.25,8672.09,Elétrica,Falha inesperada,3
+580,COLH-032,Colhedora,Corretiva,4,2024-12-14,2025-01-11,Concluída,10.81,4781.66,4580.99,Hidráulica,Falha inesperada,28
+581,COLH-037,Colhedora,Corretiva,5,2024-06-29,2024-07-23,Concluída,8.01,6869.82,8282.74,Elétrica,Falha inesperada,24
+582,COLH-012,Colhedora,Corretiva,1,2024-03-31,2024-04-26,Concluída,7.27,2601.95,3408.42,Elétrica,Falha inesperada,26
+583,COLH-049,Colhedora,Corretiva,4,2024-03-22,2024-04-04,Concluída,7.33,2722.1,1536.0,Mecânica,Falha inesperada,13
+584,COLH-013,Colhedora,Corretiva,2,2024-11-19,2024-12-02,Concluída,11.06,3630.58,3518.2999999999997,Hidráulica,Falha inesperada,13
+585,COLH-023,Colhedora,Preventiva,3,2024-04-23,2024-04-25,Em execução,1.18,4277.81,2958.34,Elétrica,Manutenção programada,2
+586,COLH-025,Colhedora,Corretiva,4,2024-09-13,2024-09-18,Concluída,6.46,2895.07,3037.73,Hidráulica,Falha inesperada,5
+587,COLH-035,Colhedora,Corretiva,4,2024-02-27,2024-03-15,Concluída,5.34,5553.94,5455.29,Mecânica,Falha inesperada,17
+588,COLH-041,Colhedora,Corretiva,1,2024-06-02,2024-06-08,Concluída,12.08,5651.89,6619.77,Hidráulica,Falha inesperada,6
+589,COLH-030,Colhedora,Preventiva,3,2024-12-30,2025-01-01,Concluída,2.52,3652.79,3247.98,Elétrica,Manutenção programada,2
+590,COLH-017,Colhedora,Corretiva,2,2024-04-25,2024-04-29,Concluída,3.09,3772.1,4382.29,Elétrica,Falha inesperada,4
+591,COLH-049,Colhedora,Corretiva,4,2024-12-08,2024-12-30,Em execução,8.67,3969.83,4724.91,Hidráulica,Falha inesperada,22
+592,COLH-020,Colhedora,Preventiva,4,2024-09-22,2024-10-18,Concluída,2.63,3252.67,3758.4300000000003,Elétrica,Manutenção programada,26
+593,COLH-048,Colhedora,Corretiva,1,2024-11-10,2024-11-21,Concluída,6.33,656.66,1868.7599999999998,Elétrica,Falha inesperada,11
+594,COLH-025,Colhedora,Preventiva,5,2024-07-21,2024-07-29,Concluída,2.34,4872.44,6827.07,Elétrica,Manutenção programada,8
+595,COLH-022,Colhedora,Preventiva,2,2024-02-10,2024-02-22,Concluída,2.3,4354.34,4743.89,Mecânica,Manutenção programada,12
+596,COLH-013,Colhedora,Preventiva,3,2024-04-14,2024-04-22,Concluída,3.71,4507.78,5131.92,Mecânica,Manutenção programada,8
+597,COLH-019,Colhedora,Preventiva,4,2024-07-11,2024-07-22,Concluída,3.22,3482.29,3078.0699999999997,Elétrica,Manutenção programada,11
+598,COLH-049,Colhedora,Preventiva,4,2024-10-04,2024-10-26,Concluída,2.8,6215.75,5700.13,Hidráulica,Manutenção programada,22
+599,COLH-036,Colhedora,Preventiva,2,2024-12-19,2025-01-08,Concluída,1.9,8638.09,9765.15,Mecânica,Manutenção programada,20
+600,COLH-012,Colhedora,Preventiva,5,2024-08-24,2024-09-01,Concluída,2.83,3748.87,4770.09,Hidráulica,Manutenção programada,8
+601,COLH-041,Colhedora,Preventiva,4,2024-08-08,2024-09-06,Concluída,3.26,7099.54,6575.84,Elétrica,Manutenção programada,29
+602,COLH-019,Colhedora,Corretiva,2,2024-03-08,2024-03-16,Aberta,8.9,5549.97,4803.39,Elétrica,Falha inesperada,8
+603,COLH-012,Colhedora,Corretiva,1,2024-07-15,2024-08-10,Concluída,8.48,5053.13,4834.14,Hidráulica,Falha inesperada,26
+604,COLH-009,Colhedora,Corretiva,5,2024-09-12,2024-09-29,Em execução,5.23,4483.82,4670.719999999999,Mecânica,Falha inesperada,17
+605,COLH-007,Colhedora,Corretiva,3,2024-05-18,2024-06-07,Concluída,0.79,4875.17,4847.87,Hidráulica,Falha inesperada,20
+606,COLH-028,Colhedora,Corretiva,4,2024-11-07,2024-11-27,Concluída,13.4,6724.39,7152.8,Hidráulica,Falha inesperada,20
+607,COLH-014,Colhedora,Corretiva,2,2024-05-28,2024-06-20,Concluída,4.07,3292.88,4326.530000000001,Elétrica,Falha inesperada,23
+608,COLH-031,Colhedora,Corretiva,1,2024-04-08,2024-04-24,Concluída,2.11,4587.49,5257.17,Mecânica,Falha inesperada,16
+609,COLH-019,Colhedora,Preventiva,3,2024-03-16,2024-03-30,Aberta,3.13,6873.5,7602.4,Hidráulica,Manutenção programada,14
+610,COLH-047,Colhedora,Preventiva,2,2024-10-08,2024-10-19,Em execução,1.29,6475.57,4814.34,Mecânica,Manutenção programada,11
+611,COLH-016,Colhedora,Corretiva,2,2024-04-18,2024-04-25,Concluída,5.59,3316.12,2325.0,Elétrica,Falha inesperada,7
+612,COLH-005,Colhedora,Corretiva,3,2024-07-06,2024-07-22,Concluída,9.65,4726.11,4388.94,Mecânica,Falha inesperada,16
+613,COLH-035,Colhedora,Preventiva,1,2024-07-17,2024-07-30,Concluída,4.77,6092.01,5886.900000000001,Elétrica,Manutenção programada,13
+614,COLH-012,Colhedora,Corretiva,1,2024-10-29,2024-11-25,Aberta,9.16,5995.14,6967.0,Mecânica,Falha inesperada,27
+615,COLH-025,Colhedora,Preventiva,5,2024-11-22,2024-12-07,Em execução,2.56,6462.7,6059.58,Hidráulica,Manutenção programada,15
+616,COLH-021,Colhedora,Corretiva,4,2024-06-02,2024-06-26,Em execução,7.85,5576.43,6409.97,Elétrica,Falha inesperada,24
+617,COLH-036,Colhedora,Corretiva,3,2024-02-09,2024-02-25,Em execução,2.57,5827.93,5499.85,Hidráulica,Falha inesperada,16
+618,COLH-023,Colhedora,Preventiva,3,2024-05-12,2024-06-08,Concluída,2.55,5514.19,4853.48,Elétrica,Manutenção programada,27
+619,COLH-016,Colhedora,Corretiva,3,2024-05-11,2024-06-01,Concluída,6.65,7369.6,6746.040000000001,Mecânica,Falha inesperada,21
+620,COLH-039,Colhedora,Preventiva,1,2024-10-05,2024-10-28,Concluída,3.15,4367.28,6473.889999999999,Mecânica,Manutenção programada,23
+621,COLH-045,Colhedora,Preventiva,4,2024-12-27,2025-01-20,Concluída,4.94,5072.29,4726.4,Elétrica,Manutenção programada,24
+622,COLH-042,Colhedora,Corretiva,5,2024-03-24,2024-04-02,Em execução,2.19,3477.55,4330.34,Elétrica,Falha inesperada,9
+623,COLH-039,Colhedora,Preventiva,2,2024-08-29,2024-09-01,Concluída,2.59,3181.97,2235.41,Elétrica,Manutenção programada,3
+624,COLH-014,Colhedora,Preventiva,2,2024-04-25,2024-05-14,Em execução,1.17,5487.44,6922.58,Mecânica,Manutenção programada,19
+625,COLH-031,Colhedora,Corretiva,3,2024-04-18,2024-05-08,Em execução,6.49,3913.72,4492.95,Elétrica,Falha inesperada,20
+626,COLH-005,Colhedora,Preventiva,4,2024-08-08,2024-08-13,Concluída,2.14,4913.47,5432.650000000001,Elétrica,Manutenção programada,5
+627,COLH-035,Colhedora,Corretiva,1,2024-02-10,2024-02-20,Aberta,3.52,7426.62,8057.68,Hidráulica,Falha inesperada,10
+628,COLH-023,Colhedora,Corretiva,4,2024-05-26,2024-06-12,Em execução,10.74,7339.91,8059.11,Elétrica,Falha inesperada,17
+629,COLH-029,Colhedora,Corretiva,4,2024-04-21,2024-05-06,Concluída,8.77,8336.07,9283.32,Hidráulica,Falha inesperada,15
+630,COLH-043,Colhedora,Corretiva,1,2024-04-12,2024-05-05,Concluída,10.39,7456.48,7277.2,Hidráulica,Falha inesperada,23
+631,COLH-011,Colhedora,Preventiva,3,2024-02-15,2024-03-11,Concluída,2.47,8604.53,8378.460000000001,Hidráulica,Manutenção programada,25
+632,COLH-018,Colhedora,Preventiva,4,2024-11-19,2024-11-27,Aberta,2.93,5654.79,5994.17,Mecânica,Manutenção programada,8
+633,COLH-047,Colhedora,Corretiva,2,2024-09-27,2024-10-12,Em execução,12.78,3645.47,4493.01,Hidráulica,Falha inesperada,15
+634,COLH-012,Colhedora,Preventiva,1,2024-07-13,2024-08-03,Concluída,3.0,3499.41,3746.0899999999997,Elétrica,Manutenção programada,21
+635,COLH-009,Colhedora,Corretiva,5,2024-10-06,2024-10-20,Em execução,10.42,7094.5,8013.62,Mecânica,Falha inesperada,14
+636,COLH-010,Colhedora,Corretiva,3,2024-10-09,2024-10-29,Concluída,6.15,5077.44,5871.709999999999,Mecânica,Falha inesperada,20
+637,COLH-044,Colhedora,Preventiva,1,2024-02-09,2024-03-08,Aberta,3.72,5189.2,5315.61,Mecânica,Manutenção programada,28
+638,COLH-017,Colhedora,Corretiva,5,2024-07-07,2024-07-14,Concluída,6.35,4176.39,3078.6500000000005,Mecânica,Falha inesperada,7
+639,COLH-038,Colhedora,Corretiva,5,2024-06-12,2024-07-03,Aberta,2.31,4356.24,4253.42,Mecânica,Falha inesperada,21
+640,COLH-007,Colhedora,Preventiva,4,2024-01-24,2024-02-16,Concluída,2.99,5575.64,7269.88,Mecânica,Manutenção programada,23
+641,COLH-046,Colhedora,Corretiva,4,2024-01-24,2024-02-05,Concluída,6.59,3417.16,3989.21,Mecânica,Falha inesperada,12
+642,COLH-013,Colhedora,Corretiva,4,2024-01-04,2024-01-21,Concluída,3.13,5385.71,5174.07,Hidráulica,Falha inesperada,17
+643,COLH-040,Colhedora,Corretiva,1,2024-11-18,2024-12-05,Em execução,8.57,7266.62,7767.139999999999,Elétrica,Falha inesperada,17
+644,COLH-042,Colhedora,Corretiva,1,2024-10-16,2024-10-26,Concluída,5.32,1799.55,2640.87,Elétrica,Falha inesperada,10
+645,COLH-009,Colhedora,Preventiva,3,2024-06-29,2024-07-28,Concluída,6.09,2688.03,2476.78,Hidráulica,Manutenção programada,29
+646,COLH-027,Colhedora,Corretiva,4,2024-09-04,2024-09-23,Concluída,3.61,6013.41,7301.719999999999,Hidráulica,Falha inesperada,19
+647,COLH-002,Colhedora,Preventiva,5,2024-04-25,2024-05-09,Concluída,1.79,7045.95,7742.51,Mecânica,Manutenção programada,14
+648,COLH-005,Colhedora,Corretiva,2,2024-10-05,2024-10-16,Aberta,10.61,4265.16,3685.23,Mecânica,Falha inesperada,11
+649,COLH-029,Colhedora,Corretiva,3,2024-12-30,2025-01-01,Em execução,7.6,2002.64,2987.73,Hidráulica,Falha inesperada,2
+650,COLH-037,Colhedora,Corretiva,1,2024-03-09,2024-03-27,Concluída,10.55,7147.89,7120.200000000001,Mecânica,Falha inesperada,18
+651,COLH-038,Colhedora,Corretiva,3,2024-12-16,2024-12-23,Em execução,9.14,3783.4,3940.1,Elétrica,Falha inesperada,7
+652,COLH-019,Colhedora,Preventiva,3,2024-09-10,2024-09-22,Concluída,2.42,4458.13,3945.36,Elétrica,Manutenção programada,12
+653,COLH-008,Colhedora,Preventiva,3,2024-06-29,2024-07-25,Concluída,1.62,5478.57,6283.73,Mecânica,Manutenção programada,26
+654,COLH-048,Colhedora,Corretiva,3,2024-11-13,2024-11-15,Concluída,11.21,4000.35,4181.26,Mecânica,Falha inesperada,2
+655,COLH-045,Colhedora,Corretiva,2,2024-06-17,2024-07-14,Concluída,4.13,3685.81,4524.82,Mecânica,Falha inesperada,27
+656,COLH-001,Colhedora,Corretiva,4,2024-11-08,2024-11-28,Concluída,9.68,3713.3,3572.51,Elétrica,Falha inesperada,20
+657,COLH-022,Colhedora,Corretiva,5,2024-09-05,2024-09-23,Em execução,10.76,7786.89,7554.570000000001,Mecânica,Falha inesperada,18
+658,COLH-017,Colhedora,Preventiva,3,2024-07-06,2024-07-12,Em execução,2.87,6739.42,6442.27,Hidráulica,Manutenção programada,6
+659,COLH-007,Colhedora,Corretiva,3,2024-02-23,2024-03-18,Concluída,7.09,5861.78,6478.61,Mecânica,Falha inesperada,24
+660,COLH-025,Colhedora,Corretiva,3,2024-11-21,2024-12-01,Aberta,5.05,1720.35,1476.07,Hidráulica,Falha inesperada,10
+661,COLH-045,Colhedora,Corretiva,4,2024-12-22,2025-01-11,Aberta,9.39,5867.29,6004.8,Mecânica,Falha inesperada,20
+662,COLH-004,Colhedora,Corretiva,1,2024-11-08,2024-11-23,Concluída,1.14,5786.3,5671.56,Mecânica,Falha inesperada,15
+663,COLH-036,Colhedora,Corretiva,1,2024-05-17,2024-05-22,Concluída,10.15,3082.8,3734.8700000000003,Elétrica,Falha inesperada,5
+664,COLH-006,Colhedora,Corretiva,2,2024-06-16,2024-07-06,Concluída,8.36,5388.07,4299.83,Hidráulica,Falha inesperada,20
+665,COLH-031,Colhedora,Corretiva,1,2024-04-12,2024-04-15,Em execução,7.33,6577.24,7074.87,Hidráulica,Falha inesperada,3
+666,COLH-019,Colhedora,Corretiva,3,2024-03-25,2024-03-30,Em execução,8.73,5854.05,7539.12,Hidráulica,Falha inesperada,5
+667,COLH-044,Colhedora,Preventiva,3,2024-11-12,2024-12-07,Em execução,1.63,3979.75,5268.57,Elétrica,Manutenção programada,25
+668,COLH-039,Colhedora,Corretiva,3,2024-07-30,2024-08-07,Concluída,0.76,5019.9,4826.58,Hidráulica,Falha inesperada,8
+669,COLH-027,Colhedora,Preventiva,2,2024-01-03,2024-01-11,Concluída,3.47,6095.54,6791.22,Elétrica,Manutenção programada,8
+670,COLH-010,Colhedora,Corretiva,3,2024-06-27,2024-07-05,Concluída,11.95,5089.18,5629.63,Mecânica,Falha inesperada,8
+671,COLH-026,Colhedora,Preventiva,1,2024-12-07,2024-12-19,Concluída,1.26,6881.43,8356.94,Mecânica,Manutenção programada,12
+672,COLH-019,Colhedora,Corretiva,4,2024-10-29,2024-11-22,Concluída,4.84,5593.52,3885.4300000000003,Hidráulica,Falha inesperada,24
+673,COLH-039,Colhedora,Preventiva,4,2024-11-27,2024-12-20,Concluída,3.75,6129.38,7319.67,Mecânica,Manutenção programada,23
+674,COLH-003,Colhedora,Preventiva,5,2024-02-07,2024-02-15,Concluída,3.36,6232.1,6318.09,Mecânica,Manutenção programada,8
+675,COLH-045,Colhedora,Corretiva,1,2024-08-26,2024-09-06,Concluída,16.89,3399.98,3105.4,Hidráulica,Falha inesperada,11
+676,COLH-013,Colhedora,Corretiva,3,2024-06-17,2024-07-01,Concluída,11.23,5074.98,4757.54,Mecânica,Falha inesperada,14
+677,COLH-028,Colhedora,Corretiva,4,2024-12-08,2024-12-16,Concluída,10.51,4501.47,3761.5400000000004,Hidráulica,Falha inesperada,8
+678,COLH-020,Colhedora,Corretiva,1,2024-11-09,2024-12-08,Concluída,5.71,6565.77,6374.4800000000005,Hidráulica,Falha inesperada,29
+679,COLH-028,Colhedora,Corretiva,4,2024-11-01,2024-11-25,Concluída,9.57,5694.85,5131.06,Mecânica,Falha inesperada,24
+680,COLH-008,Colhedora,Corretiva,3,2024-01-30,2024-02-27,Concluída,12.49,4717.68,5161.85,Mecânica,Falha inesperada,28
+681,COLH-041,Colhedora,Corretiva,4,2024-07-08,2024-07-18,Concluída,7.51,3077.22,3849.17,Mecânica,Falha inesperada,10
+682,COLH-039,Colhedora,Corretiva,5,2024-12-22,2024-12-29,Concluída,7.65,2604.64,2699.3799999999997,Mecânica,Falha inesperada,7
+683,COLH-001,Colhedora,Preventiva,5,2024-01-25,2024-02-22,Em execução,3.14,5465.51,6965.29,Mecânica,Manutenção programada,28
+684,COLH-003,Colhedora,Preventiva,4,2024-04-21,2024-05-08,Aberta,2.34,3924.18,3785.4399999999996,Elétrica,Manutenção programada,17
+685,COLH-013,Colhedora,Preventiva,1,2024-07-24,2024-07-28,Concluída,3.27,5999.19,6052.099999999999,Mecânica,Manutenção programada,4
+686,COLH-028,Colhedora,Corretiva,1,2024-07-03,2024-08-01,Concluída,8.73,2535.29,2456.94,Elétrica,Falha inesperada,29
+687,COLH-049,Colhedora,Corretiva,1,2024-02-16,2024-02-29,Aberta,12.44,7389.43,8168.33,Hidráulica,Falha inesperada,13
+688,COLH-025,Colhedora,Corretiva,4,2024-08-15,2024-08-19,Concluída,7.43,5995.8,6855.46,Mecânica,Falha inesperada,4
+689,COLH-033,Colhedora,Corretiva,1,2024-02-08,2024-02-13,Aberta,10.02,5148.78,5845.07,Mecânica,Falha inesperada,5
+690,COLH-038,Colhedora,Preventiva,3,2024-01-16,2024-02-11,Em execução,2.84,7524.59,7725.3,Mecânica,Manutenção programada,26
+691,COLH-006,Colhedora,Corretiva,5,2024-01-22,2024-02-13,Concluída,9.92,6422.63,5650.13,Hidráulica,Falha inesperada,22
+692,COLH-044,Colhedora,Preventiva,3,2024-07-31,2024-08-04,Em execução,2.75,4287.5,4331.95,Elétrica,Manutenção programada,4
+693,COLH-045,Colhedora,Corretiva,1,2024-11-05,2024-11-23,Aberta,9.72,5116.36,6598.87,Elétrica,Falha inesperada,18
+694,COLH-032,Colhedora,Corretiva,3,2024-05-28,2024-06-03,Concluída,10.18,2053.59,3164.1800000000003,Mecânica,Falha inesperada,6
+695,COLH-045,Colhedora,Corretiva,1,2024-08-28,2024-09-21,Concluída,4.8,6596.29,7131.53,Mecânica,Falha inesperada,24
+696,COLH-047,Colhedora,Corretiva,4,2024-09-28,2024-10-22,Concluída,11.31,4556.07,4548.509999999999,Mecânica,Falha inesperada,24
+697,COLH-021,Colhedora,Corretiva,3,2024-02-28,2024-03-22,Concluída,7.5,2034.16,2323.27,Mecânica,Falha inesperada,23
+698,COLH-016,Colhedora,Corretiva,4,2024-10-13,2024-11-04,Concluída,6.59,3227.24,3223.24,Hidráulica,Falha inesperada,22
+699,COLH-021,Colhedora,Corretiva,4,2024-07-20,2024-07-22,Aberta,5.87,6306.37,7560.8099999999995,Mecânica,Falha inesperada,2
+700,COLH-011,Colhedora,Corretiva,2,2024-02-01,2024-02-24,Concluída,8.89,7420.7,7049.53,Hidráulica,Falha inesperada,23
+701,COLH-037,Colhedora,Corretiva,1,2024-06-10,2024-06-21,Aberta,7.99,5030.64,6069.58,Mecânica,Falha inesperada,11
+702,COLH-036,Colhedora,Corretiva,5,2024-09-11,2024-10-09,Concluída,9.11,3526.92,3403.56,Elétrica,Falha inesperada,28
+703,COLH-035,Colhedora,Corretiva,1,2024-09-10,2024-09-24,Concluída,9.17,2868.88,4225.62,Elétrica,Falha inesperada,14
+704,COLH-019,Colhedora,Corretiva,5,2024-01-09,2024-01-14,Concluída,9.83,7121.92,7763.34,Mecânica,Falha inesperada,5
+705,COLH-020,Colhedora,Preventiva,1,2024-05-18,2024-05-24,Em execução,5.78,5674.2,5374.69,Mecânica,Manutenção programada,6
+706,COLH-018,Colhedora,Corretiva,4,2024-01-10,2024-01-20,Concluída,8.12,4504.79,4557.34,Hidráulica,Falha inesperada,10
+707,COLH-047,Colhedora,Preventiva,3,2024-08-01,2024-08-09,Em execução,2.27,4147.59,5016.9,Mecânica,Manutenção programada,8
+708,COLH-041,Colhedora,Corretiva,3,2024-09-29,2024-10-13,Aberta,1.94,6007.74,5908.429999999999,Mecânica,Falha inesperada,14
+709,COLH-049,Colhedora,Corretiva,2,2024-11-19,2024-12-13,Concluída,4.41,5966.48,6284.19,Mecânica,Falha inesperada,24
+710,COLH-014,Colhedora,Preventiva,5,2024-02-17,2024-02-20,Em execução,4.24,3655.12,3544.7599999999998,Elétrica,Manutenção programada,3
+711,COLH-015,Colhedora,Corretiva,5,2024-04-20,2024-05-02,Concluída,10.16,3286.44,4993.73,Hidráulica,Falha inesperada,12
+712,COLH-031,Colhedora,Corretiva,5,2024-06-01,2024-06-17,Em execução,3.95,3362.15,5207.01,Elétrica,Falha inesperada,16
+713,COLH-001,Colhedora,Corretiva,4,2024-05-02,2024-05-30,Concluída,15.39,4297.66,5768.16,Hidráulica,Falha inesperada,28
+714,COLH-003,Colhedora,Corretiva,5,2024-12-22,2025-01-14,Concluída,8.98,3965.32,4165.82,Elétrica,Falha inesperada,23
+715,COLH-016,Colhedora,Corretiva,3,2024-04-11,2024-04-28,Concluída,9.38,7427.14,7404.9400000000005,Mecânica,Falha inesperada,17
+716,COLH-023,Colhedora,Corretiva,4,2024-08-28,2024-08-29,Concluída,14.73,4244.33,3921.0,Elétrica,Falha inesperada,1
+717,COLH-011,Colhedora,Preventiva,1,2024-11-16,2024-12-09,Concluída,4.74,3125.5,4654.08,Elétrica,Manutenção programada,23
+718,COLH-012,Colhedora,Corretiva,5,2024-07-09,2024-07-19,Concluída,10.34,3209.75,4254.33,Hidráulica,Falha inesperada,10
+719,COLH-010,Colhedora,Corretiva,5,2024-08-04,2024-08-29,Concluída,10.49,4724.04,5807.05,Hidráulica,Falha inesperada,25
+720,COLH-032,Colhedora,Corretiva,1,2024-02-20,2024-03-14,Concluída,10.77,2266.81,2366.87,Elétrica,Falha inesperada,23
+721,COLH-016,Colhedora,Preventiva,5,2024-10-18,2024-10-28,Concluída,2.76,4909.82,3803.5,Hidráulica,Manutenção programada,10
+722,COLH-008,Colhedora,Corretiva,1,2024-03-21,2024-04-11,Concluída,8.86,2995.69,2073.32,Hidráulica,Falha inesperada,21
+723,COLH-038,Colhedora,Corretiva,4,2024-03-28,2024-04-21,Concluída,9.72,6737.92,7084.03,Hidráulica,Falha inesperada,24
+724,COLH-012,Colhedora,Corretiva,3,2024-07-12,2024-07-14,Concluída,7.62,5174.84,5056.7,Hidráulica,Falha inesperada,2
+725,COLH-024,Colhedora,Preventiva,1,2024-04-13,2024-04-22,Concluída,2.03,8181.54,7971.38,Hidráulica,Manutenção programada,9
+726,COLH-028,Colhedora,Corretiva,2,2024-09-27,2024-10-19,Concluída,7.2,4657.7,5233.82,Elétrica,Falha inesperada,22
+727,COLH-008,Colhedora,Corretiva,1,2024-04-05,2024-04-18,Aberta,5.04,302.38,1413.31,Hidráulica,Falha inesperada,13
+728,COLH-028,Colhedora,Corretiva,5,2024-07-16,2024-08-10,Em execução,8.19,7186.52,6925.540000000001,Mecânica,Falha inesperada,25
+729,COLH-036,Colhedora,Corretiva,4,2024-01-01,2024-01-17,Concluída,2.66,5752.88,5008.39,Elétrica,Falha inesperada,16
+730,COLH-026,Colhedora,Corretiva,4,2024-06-15,2024-07-03,Em execução,9.02,5985.36,5743.38,Elétrica,Falha inesperada,18
+731,COLH-008,Colhedora,Corretiva,1,2024-05-05,2024-05-24,Concluída,3.11,3496.12,2960.95,Elétrica,Falha inesperada,19
+732,COLH-028,Colhedora,Preventiva,3,2024-11-08,2024-11-20,Concluída,2.6,4935.73,5710.0,Hidráulica,Manutenção programada,12
+733,COLH-028,Colhedora,Preventiva,2,2024-03-21,2024-03-29,Concluída,3.5,5279.69,5576.4,Mecânica,Manutenção programada,8
+734,COLH-037,Colhedora,Corretiva,4,2024-09-07,2024-09-24,Aberta,10.37,4643.27,6447.660000000001,Hidráulica,Falha inesperada,17
+735,COLH-041,Colhedora,Preventiva,5,2024-06-17,2024-07-02,Em execução,3.67,2398.46,3286.21,Elétrica,Manutenção programada,15
+736,COLH-036,Colhedora,Corretiva,5,2024-03-13,2024-03-23,Concluída,8.96,9153.04,10904.12,Elétrica,Falha inesperada,10
+737,COLH-027,Colhedora,Corretiva,3,2024-05-20,2024-06-04,Concluída,4.64,6253.74,5430.639999999999,Elétrica,Falha inesperada,15
+738,COLH-017,Colhedora,Corretiva,4,2024-03-10,2024-03-25,Concluída,10.94,5630.88,3328.59,Elétrica,Falha inesperada,15
+739,COLH-009,Colhedora,Preventiva,1,2024-09-18,2024-10-11,Concluída,1.9,6970.83,7465.22,Hidráulica,Manutenção programada,23
+740,COLH-033,Colhedora,Corretiva,5,2024-12-05,2024-12-12,Concluída,11.28,5966.29,6364.87,Mecânica,Falha inesperada,7
+741,COLH-020,Colhedora,Corretiva,3,2024-11-03,2024-11-16,Concluída,9.88,3984.2,4185.97,Mecânica,Falha inesperada,13
+742,COLH-013,Colhedora,Corretiva,4,2024-09-01,2024-09-18,Concluída,12.08,6874.67,7251.31,Elétrica,Falha inesperada,17
+743,COLH-028,Colhedora,Corretiva,4,2024-01-03,2024-01-12,Aberta,8.07,6278.32,5679.099999999999,Mecânica,Falha inesperada,9
+744,COLH-048,Colhedora,Corretiva,4,2024-12-02,2024-12-10,Concluída,5.54,4041.07,4791.610000000001,Elétrica,Falha inesperada,8
+745,COLH-029,Colhedora,Corretiva,4,2024-03-03,2024-03-23,Concluída,4.12,6185.02,7073.97,Elétrica,Falha inesperada,20
+746,COLH-013,Colhedora,Corretiva,4,2024-02-18,2024-03-15,Concluída,4.46,4639.14,3979.34,Mecânica,Falha inesperada,26
+747,COLH-046,Colhedora,Corretiva,5,2024-03-16,2024-04-12,Aberta,3.09,5312.72,5329.81,Elétrica,Falha inesperada,27
+748,COLH-035,Colhedora,Corretiva,3,2024-06-23,2024-07-14,Concluída,10.83,5899.48,5965.99,Mecânica,Falha inesperada,21
+749,COLH-006,Colhedora,Preventiva,4,2024-04-18,2024-05-06,Concluída,4.07,7052.75,6816.1,Elétrica,Manutenção programada,18
+750,COLH-018,Colhedora,Corretiva,2,2024-07-01,2024-07-14,Concluída,9.66,4031.01,3402.1200000000003,Mecânica,Falha inesperada,13
+751,COLH-005,Colhedora,Corretiva,2,2024-07-10,2024-07-26,Em execução,7.9,5547.44,5857.44,Elétrica,Falha inesperada,16
+752,COLH-047,Colhedora,Preventiva,3,2024-03-05,2024-03-14,Concluída,5.06,8023.59,8532.23,Mecânica,Manutenção programada,9
+753,COLH-025,Colhedora,Corretiva,1,2024-12-02,2024-12-14,Concluída,7.71,4735.93,4547.780000000001,Elétrica,Falha inesperada,12
+754,COLH-002,Colhedora,Corretiva,1,2024-09-27,2024-10-09,Concluída,8.66,5294.84,4722.21,Elétrica,Falha inesperada,12
+755,COLH-010,Colhedora,Preventiva,1,2024-04-09,2024-04-15,Concluída,2.95,8021.35,8649.800000000001,Elétrica,Manutenção programada,6
+756,COLH-030,Colhedora,Corretiva,2,2024-02-01,2024-02-20,Concluída,6.99,5956.22,5642.360000000001,Mecânica,Falha inesperada,19
+757,COLH-045,Colhedora,Corretiva,1,2024-12-17,2025-01-14,Concluída,9.89,2789.03,2841.67,Hidráulica,Falha inesperada,28
+758,COLH-005,Colhedora,Corretiva,5,2024-05-07,2024-05-14,Concluída,6.1,3806.78,3757.92,Elétrica,Falha inesperada,7
+759,COLH-033,Colhedora,Corretiva,4,2024-12-04,2024-12-29,Concluída,5.9,6034.37,7330.94,Elétrica,Falha inesperada,25
+760,COLH-001,Colhedora,Corretiva,2,2024-02-12,2024-02-15,Em execução,10.04,5634.51,5357.37,Mecânica,Falha inesperada,3
+761,COLH-018,Colhedora,Corretiva,3,2024-03-18,2024-04-03,Concluída,6.51,5243.87,6924.29,Elétrica,Falha inesperada,16
+762,COLH-032,Colhedora,Corretiva,3,2024-11-09,2024-11-27,Em execução,8.4,8241.84,9143.68,Elétrica,Falha inesperada,18
+763,COLH-047,Colhedora,Corretiva,4,2024-10-15,2024-10-31,Concluída,6.98,4073.77,5830.49,Elétrica,Falha inesperada,16
+764,COLH-049,Colhedora,Preventiva,2,2024-09-26,2024-10-19,Em execução,2.99,4888.38,5720.09,Elétrica,Manutenção programada,23
+765,COLH-011,Colhedora,Preventiva,1,2024-06-10,2024-06-17,Aberta,2.33,2055.33,2178.49,Hidráulica,Manutenção programada,7
+766,COLH-021,Colhedora,Corretiva,1,2024-07-07,2024-07-11,Concluída,6.08,6740.99,6307.099999999999,Hidráulica,Falha inesperada,4
+767,COLH-026,Colhedora,Corretiva,5,2024-09-03,2024-09-30,Em execução,5.54,3801.72,3817.39,Elétrica,Falha inesperada,27
+768,COLH-025,Colhedora,Preventiva,5,2024-08-03,2024-08-28,Concluída,3.84,6585.71,8075.53,Elétrica,Manutenção programada,25
+769,COLH-022,Colhedora,Corretiva,1,2024-11-10,2024-11-18,Aberta,8.52,6428.05,6689.7,Elétrica,Falha inesperada,8
+770,COLH-027,Colhedora,Corretiva,3,2024-12-04,2024-12-17,Concluída,10.76,8523.65,9352.39,Hidráulica,Falha inesperada,13
+771,COLH-049,Colhedora,Preventiva,3,2024-06-16,2024-06-29,Concluída,4.03,5973.91,6439.49,Hidráulica,Manutenção programada,13
+772,COLH-013,Colhedora,Corretiva,5,2024-12-04,2024-12-21,Concluída,6.62,4465.87,4965.6,Mecânica,Falha inesperada,17
+773,COLH-033,Colhedora,Preventiva,4,2024-07-11,2024-07-28,Concluída,3.88,5680.43,6210.96,Mecânica,Manutenção programada,17
+774,COLH-034,Colhedora,Preventiva,1,2024-10-09,2024-10-14,Em execução,2.99,3861.12,4557.389999999999,Elétrica,Manutenção programada,5
+775,COLH-041,Colhedora,Corretiva,5,2024-12-01,2024-12-07,Concluída,7.52,5478.74,5127.45,Elétrica,Falha inesperada,6
+776,COLH-035,Colhedora,Corretiva,5,2024-01-13,2024-02-01,Em execução,11.76,4698.65,4778.73,Hidráulica,Falha inesperada,19
+777,COLH-001,Colhedora,Corretiva,1,2024-08-27,2024-09-09,Concluída,9.66,4894.49,5441.94,Elétrica,Falha inesperada,13
+778,COLH-021,Colhedora,Preventiva,1,2024-11-15,2024-12-10,Concluída,2.65,3652.45,4083.24,Elétrica,Manutenção programada,25
+779,COLH-048,Colhedora,Preventiva,3,2024-05-26,2024-06-23,Concluída,3.49,5450.67,5381.71,Hidráulica,Manutenção programada,28
+780,COLH-006,Colhedora,Preventiva,4,2024-07-22,2024-08-17,Aberta,1.73,6236.35,6869.63,Hidráulica,Manutenção programada,26
+781,COLH-028,Colhedora,Corretiva,4,2024-03-20,2024-04-03,Concluída,8.74,2521.85,2204.94,Hidráulica,Falha inesperada,14
+782,COLH-017,Colhedora,Preventiva,1,2024-02-12,2024-03-05,Em execução,1.5,3967.11,3288.71,Hidráulica,Manutenção programada,22
+783,COLH-005,Colhedora,Preventiva,2,2024-03-29,2024-04-02,Concluída,2.02,5252.07,5788.0599999999995,Mecânica,Manutenção programada,4
+784,COLH-031,Colhedora,Corretiva,5,2024-05-27,2024-06-24,Concluída,9.75,1479.03,820.24,Hidráulica,Falha inesperada,28
+785,COLH-005,Colhedora,Preventiva,5,2024-04-04,2024-04-11,Concluída,0.33,7610.4,8134.5,Hidráulica,Manutenção programada,7
+786,COLH-038,Colhedora,Preventiva,1,2024-05-30,2024-06-07,Em execução,4.8,3933.33,2669.59,Elétrica,Manutenção programada,8
+787,COLH-003,Colhedora,Preventiva,2,2024-01-02,2024-01-27,Aberta,3.83,3592.87,3312.88,Elétrica,Manutenção programada,25
+788,COLH-023,Colhedora,Corretiva,3,2024-01-22,2024-02-04,Concluída,2.48,4688.99,4726.929999999999,Elétrica,Falha inesperada,13
+789,COLH-037,Colhedora,Corretiva,1,2024-11-08,2024-12-05,Em execução,15.2,5206.06,4220.75,Mecânica,Falha inesperada,27
+790,COLH-037,Colhedora,Corretiva,1,2024-11-23,2024-11-29,Em execução,16.02,3865.29,3867.15,Hidráulica,Falha inesperada,6
+791,COLH-010,Colhedora,Corretiva,5,2024-01-07,2024-01-13,Concluída,7.46,6470.62,7718.639999999999,Hidráulica,Falha inesperada,6
+792,COLH-010,Colhedora,Corretiva,1,2024-07-24,2024-08-17,Aberta,5.22,5599.56,4883.31,Mecânica,Falha inesperada,24
+793,COLH-019,Colhedora,Preventiva,1,2024-04-23,2024-05-21,Aberta,4.69,3744.14,3767.8399999999997,Hidráulica,Manutenção programada,28
+794,COLH-017,Colhedora,Preventiva,1,2024-09-28,2024-10-19,Concluída,2.66,4216.39,5878.51,Elétrica,Manutenção programada,21
+795,COLH-021,Colhedora,Preventiva,5,2024-03-23,2024-03-26,Concluída,3.16,2724.85,2175.3599999999997,Mecânica,Manutenção programada,3
+796,COLH-014,Colhedora,Corretiva,3,2024-06-27,2024-07-25,Em execução,11.65,3119.99,4537.7699999999995,Hidráulica,Falha inesperada,28
+797,COLH-009,Colhedora,Corretiva,3,2024-07-28,2024-07-31,Em execução,7.54,5581.4,5658.2,Mecânica,Falha inesperada,3
+798,COLH-046,Colhedora,Corretiva,1,2024-11-23,2024-12-06,Concluída,7.28,3759.7,4141.23,Mecânica,Falha inesperada,13
+799,COLH-001,Colhedora,Preventiva,5,2024-05-03,2024-05-25,Em execução,1.73,7706.43,9039.62,Hidráulica,Manutenção programada,22
+800,COLH-045,Colhedora,Preventiva,3,2024-04-22,2024-04-24,Concluída,2.37,5106.38,5018.3,Elétrica,Manutenção programada,2
+801,COLH-013,Colhedora,Preventiva,3,2024-01-12,2024-01-28,Em execução,2.74,2970.76,3775.5800000000004,Hidráulica,Manutenção programada,16
+802,COLH-004,Colhedora,Corretiva,3,2024-05-05,2024-05-27,Concluída,4.28,3284.98,4292.66,Hidráulica,Falha inesperada,22
+803,COLH-001,Colhedora,Preventiva,5,2024-02-22,2024-03-22,Concluída,1.85,6579.45,6358.8,Elétrica,Manutenção programada,29
+804,COLH-049,Colhedora,Preventiva,5,2024-11-26,2024-12-02,Concluída,3.03,4885.23,4576.089999999999,Hidráulica,Manutenção programada,6
+805,COLH-040,Colhedora,Corretiva,1,2024-10-09,2024-10-17,Concluída,2.45,6487.99,6605.11,Hidráulica,Falha inesperada,8
+806,COLH-032,Colhedora,Preventiva,4,2024-05-19,2024-06-11,Concluída,2.12,4450.27,4592.42,Hidráulica,Manutenção programada,23
+807,COLH-034,Colhedora,Corretiva,3,2024-04-06,2024-04-14,Em execução,13.83,4159.65,3596.49,Mecânica,Falha inesperada,8
+808,COLH-028,Colhedora,Corretiva,4,2024-01-05,2024-01-30,Em execução,6.96,6679.17,6465.89,Mecânica,Falha inesperada,25
+809,COLH-031,Colhedora,Corretiva,5,2024-02-26,2024-03-03,Concluída,6.59,3712.13,1238.6100000000001,Mecânica,Falha inesperada,6
+810,COLH-008,Colhedora,Corretiva,5,2024-11-29,2024-12-13,Em execução,6.95,5733.58,5766.16,Hidráulica,Falha inesperada,14
+811,COLH-039,Colhedora,Corretiva,5,2024-03-09,2024-03-12,Em execução,7.0,4682.32,5697.84,Elétrica,Falha inesperada,3
+812,COLH-026,Colhedora,Corretiva,4,2024-04-27,2024-05-07,Concluída,9.72,6318.09,5284.74,Mecânica,Falha inesperada,10
+813,COLH-034,Colhedora,Corretiva,5,2024-02-28,2024-03-02,Concluída,9.51,7727.73,7657.209999999999,Elétrica,Falha inesperada,3
+814,COLH-003,Colhedora,Corretiva,1,2024-02-02,2024-02-29,Concluída,6.83,4411.73,6665.599999999999,Hidráulica,Falha inesperada,27
+815,COLH-012,Colhedora,Corretiva,5,2024-11-13,2024-11-25,Concluída,7.36,4179.29,4461.24,Mecânica,Falha inesperada,12
+816,COLH-001,Colhedora,Corretiva,2,2024-02-19,2024-03-07,Concluída,11.94,5998.71,7384.15,Hidráulica,Falha inesperada,17
+817,COLH-044,Colhedora,Corretiva,4,2024-01-19,2024-02-15,Aberta,3.47,3376.99,2867.46,Elétrica,Falha inesperada,27
+818,COLH-005,Colhedora,Corretiva,2,2024-08-01,2024-08-30,Concluída,7.83,7424.7,8083.75,Mecânica,Falha inesperada,29
+819,COLH-030,Colhedora,Corretiva,5,2024-07-15,2024-07-20,Em execução,8.41,7169.03,6523.26,Mecânica,Falha inesperada,5
+820,COLH-030,Colhedora,Corretiva,1,2024-02-16,2024-03-07,Concluída,5.67,3501.32,4122.17,Mecânica,Falha inesperada,20
+821,COLH-017,Colhedora,Corretiva,3,2024-06-15,2024-07-10,Concluída,7.65,2625.31,3599.1099999999997,Mecânica,Falha inesperada,25
+822,COLH-048,Colhedora,Corretiva,5,2024-10-15,2024-10-24,Concluída,5.26,3259.13,4043.11,Elétrica,Falha inesperada,9
+823,COLH-047,Colhedora,Preventiva,1,2024-05-20,2024-06-10,Concluída,3.64,3281.95,3306.0,Mecânica,Manutenção programada,21
+824,COLH-023,Colhedora,Corretiva,4,2024-03-24,2024-04-19,Aberta,3.99,6202.64,6722.59,Hidráulica,Falha inesperada,26
+825,COLH-015,Colhedora,Corretiva,2,2024-06-30,2024-07-20,Concluída,11.19,7323.76,7851.35,Mecânica,Falha inesperada,20
+826,COLH-037,Colhedora,Preventiva,2,2024-03-19,2024-03-26,Concluída,2.93,6185.19,7017.98,Elétrica,Manutenção programada,7
+827,COLH-021,Colhedora,Preventiva,2,2024-08-02,2024-08-24,Concluída,2.55,4645.71,4846.7,Mecânica,Manutenção programada,22
+828,COLH-014,Colhedora,Preventiva,4,2024-01-14,2024-01-18,Concluída,2.0,5513.75,6558.66,Elétrica,Manutenção programada,4
+829,COLH-002,Colhedora,Preventiva,1,2024-08-02,2024-08-15,Concluída,4.03,3695.33,5143.01,Elétrica,Manutenção programada,13
+830,COLH-011,Colhedora,Corretiva,4,2024-05-07,2024-05-20,Em execução,6.04,6645.81,6691.52,Hidráulica,Falha inesperada,13
+831,COLH-039,Colhedora,Corretiva,2,2024-11-05,2024-11-15,Em execução,4.5,5648.04,5985.19,Mecânica,Falha inesperada,10
+832,COLH-038,Colhedora,Corretiva,5,2024-09-04,2024-09-22,Concluída,11.15,6159.8,5735.95,Mecânica,Falha inesperada,18
+833,COLH-034,Colhedora,Corretiva,3,2024-01-29,2024-02-15,Concluída,5.29,3908.7,4480.91,Mecânica,Falha inesperada,17
+834,COLH-038,Colhedora,Corretiva,4,2024-10-06,2024-10-26,Concluída,7.72,4747.1,5324.41,Hidráulica,Falha inesperada,20
+835,COLH-034,Colhedora,Corretiva,4,2024-12-03,2024-12-23,Concluída,10.46,6087.61,6434.0,Hidráulica,Falha inesperada,20
+836,COLH-018,Colhedora,Corretiva,1,2024-11-14,2024-11-27,Concluída,8.47,7165.27,7571.990000000001,Elétrica,Falha inesperada,13
+837,COLH-030,Colhedora,Preventiva,1,2024-07-20,2024-08-06,Concluída,4.73,4087.85,5925.3099999999995,Elétrica,Manutenção programada,17
+838,COLH-015,Colhedora,Preventiva,4,2024-12-26,2025-01-17,Concluída,2.17,6170.68,4161.3,Elétrica,Manutenção programada,22
+839,COLH-027,Colhedora,Corretiva,2,2024-02-26,2024-03-01,Aberta,7.37,3931.89,3834.56,Hidráulica,Falha inesperada,4
+840,COLH-034,Colhedora,Preventiva,3,2024-08-05,2024-08-06,Concluída,2.87,8175.79,8200.81,Hidráulica,Manutenção programada,1
+841,COLH-038,Colhedora,Corretiva,1,2024-03-02,2024-03-03,Em execução,9.86,4377.76,5843.29,Hidráulica,Falha inesperada,1
+842,COLH-033,Colhedora,Preventiva,2,2024-06-05,2024-06-20,Em execução,4.29,5965.26,6645.49,Elétrica,Manutenção programada,15
+843,COLH-024,Colhedora,Corretiva,5,2024-07-20,2024-08-02,Concluída,8.22,5248.41,5948.16,Hidráulica,Falha inesperada,13
+844,COLH-015,Colhedora,Preventiva,1,2024-01-17,2024-02-03,Concluída,2.86,8907.95,10215.830000000002,Elétrica,Manutenção programada,17
+845,COLH-030,Colhedora,Preventiva,2,2024-11-17,2024-12-11,Aberta,1.52,5344.85,5500.88,Elétrica,Manutenção programada,24
+846,COLH-042,Colhedora,Corretiva,2,2024-01-06,2024-02-01,Em execução,8.34,4227.42,5049.28,Mecânica,Falha inesperada,26
+847,COLH-017,Colhedora,Corretiva,3,2024-02-27,2024-03-06,Aberta,6.05,5959.26,5834.650000000001,Mecânica,Falha inesperada,8
+848,COLH-005,Colhedora,Corretiva,3,2024-11-20,2024-12-08,Concluída,9.86,5925.86,5383.21,Mecânica,Falha inesperada,18
+849,COLH-029,Colhedora,Corretiva,5,2024-11-13,2024-12-10,Aberta,6.77,4763.8,6499.13,Elétrica,Falha inesperada,27
+850,COLH-004,Colhedora,Corretiva,2,2024-06-17,2024-06-30,Em execução,7.28,3357.85,3953.08,Mecânica,Falha inesperada,13
+851,COLH-010,Colhedora,Corretiva,2,2024-03-22,2024-04-14,Concluída,3.62,4208.0,5023.73,Mecânica,Falha inesperada,23
+852,COLH-017,Colhedora,Corretiva,3,2024-08-06,2024-08-20,Concluída,2.57,6322.25,5758.11,Mecânica,Falha inesperada,14
+853,COLH-010,Colhedora,Preventiva,1,2024-06-25,2024-07-03,Concluída,4.86,2378.83,3087.1099999999997,Hidráulica,Manutenção programada,8
+854,COLH-017,Colhedora,Preventiva,1,2024-07-22,2024-07-30,Aberta,3.13,4627.93,6350.52,Elétrica,Manutenção programada,8
+855,COLH-020,Colhedora,Corretiva,4,2024-03-11,2024-04-07,Concluída,9.21,6492.3,6570.34,Mecânica,Falha inesperada,27
+856,COLH-024,Colhedora,Corretiva,3,2024-09-22,2024-10-18,Concluída,5.26,4859.76,4155.12,Hidráulica,Falha inesperada,26
+857,COLH-005,Colhedora,Corretiva,4,2024-04-07,2024-04-22,Concluída,10.63,8260.57,8707.75,Hidráulica,Falha inesperada,15
+858,COLH-034,Colhedora,Preventiva,3,2024-12-10,2025-01-06,Concluída,3.7,2383.02,1854.3,Hidráulica,Manutenção programada,27
+859,COLH-006,Colhedora,Corretiva,5,2024-10-17,2024-10-30,Concluída,5.59,3557.95,2611.71,Mecânica,Falha inesperada,13
+860,COLH-002,Colhedora,Preventiva,2,2024-07-26,2024-08-02,Aberta,1.94,1528.05,1240.24,Hidráulica,Manutenção programada,7
+861,COLH-013,Colhedora,Preventiva,5,2024-01-02,2024-01-07,Concluída,2.27,7990.54,7896.46,Elétrica,Manutenção programada,5
+862,COLH-043,Colhedora,Corretiva,3,2024-05-03,2024-05-20,Concluída,7.92,3582.52,3092.72,Hidráulica,Falha inesperada,17
+863,COLH-043,Colhedora,Corretiva,2,2024-10-06,2024-11-03,Concluída,8.5,2019.62,3380.79,Hidráulica,Falha inesperada,28
+864,COLH-048,Colhedora,Preventiva,1,2024-03-14,2024-04-08,Em execução,3.04,4082.12,5893.8099999999995,Hidráulica,Manutenção programada,25
+865,COLH-011,Colhedora,Preventiva,1,2024-06-14,2024-07-13,Em execução,4.3,2910.79,3705.26,Hidráulica,Manutenção programada,29
+866,COLH-047,Colhedora,Corretiva,4,2024-01-22,2024-02-07,Concluída,5.86,4092.82,4700.18,Elétrica,Falha inesperada,16
+867,COLH-023,Colhedora,Corretiva,3,2024-06-02,2024-06-25,Aberta,4.74,5061.84,5248.2,Mecânica,Falha inesperada,23
+868,COLH-016,Colhedora,Preventiva,3,2024-10-21,2024-10-23,Em execução,3.0,6207.38,5790.31,Elétrica,Manutenção programada,2
+869,COLH-031,Colhedora,Corretiva,1,2024-08-06,2024-08-28,Concluída,2.92,4738.0,6320.33,Elétrica,Falha inesperada,22
+870,COLH-011,Colhedora,Preventiva,5,2024-06-05,2024-06-23,Concluída,3.7,5037.94,5287.66,Mecânica,Manutenção programada,18
+871,COLH-016,Colhedora,Corretiva,2,2024-08-17,2024-09-03,Concluída,8.29,4127.61,4057.5399999999995,Hidráulica,Falha inesperada,17
+872,COLH-008,Colhedora,Corretiva,5,2024-01-20,2024-01-27,Concluída,6.99,2732.45,3844.2599999999998,Mecânica,Falha inesperada,7
+873,COLH-004,Colhedora,Preventiva,5,2024-02-10,2024-02-23,Concluída,2.61,2230.19,2471.32,Mecânica,Manutenção programada,13
+874,COLH-040,Colhedora,Corretiva,1,2024-05-27,2024-06-14,Em execução,10.73,4453.27,5535.110000000001,Elétrica,Falha inesperada,18
+875,COLH-004,Colhedora,Corretiva,1,2024-04-17,2024-05-16,Em execução,10.63,5126.96,5099.16,Mecânica,Falha inesperada,29
+876,COLH-025,Colhedora,Corretiva,1,2024-03-24,2024-04-07,Concluída,7.26,4342.08,5456.19,Hidráulica,Falha inesperada,14
+877,COLH-003,Colhedora,Corretiva,4,2024-11-17,2024-12-05,Concluída,9.78,2286.01,3369.82,Elétrica,Falha inesperada,18
+878,COLH-032,Colhedora,Corretiva,5,2024-11-04,2024-11-17,Concluída,10.59,5302.1,6661.96,Hidráulica,Falha inesperada,13
+879,COLH-003,Colhedora,Corretiva,3,2024-10-16,2024-10-27,Aberta,9.01,7443.96,7176.42,Elétrica,Falha inesperada,11
+880,COLH-027,Colhedora,Corretiva,2,2024-11-18,2024-12-09,Concluída,7.38,4828.03,5061.599999999999,Hidráulica,Falha inesperada,21
+881,COLH-029,Colhedora,Preventiva,4,2024-05-13,2024-06-03,Concluída,3.38,4130.7,5988.92,Mecânica,Manutenção programada,21
+882,COLH-032,Colhedora,Corretiva,3,2024-07-25,2024-08-10,Concluída,4.88,4909.26,5012.13,Mecânica,Falha inesperada,16
+883,COLH-019,Colhedora,Corretiva,5,2024-10-09,2024-11-01,Concluída,8.21,3343.43,4292.25,Mecânica,Falha inesperada,23
+884,COLH-021,Colhedora,Corretiva,1,2024-09-22,2024-10-09,Concluída,7.3,3246.65,5379.1,Hidráulica,Falha inesperada,17
+885,COLH-005,Colhedora,Preventiva,5,2024-03-13,2024-03-21,Concluída,2.61,5677.12,4497.889999999999,Elétrica,Manutenção programada,8
+886,COLH-018,Colhedora,Preventiva,2,2024-12-17,2025-01-05,Concluída,1.27,6485.48,6561.839999999999,Elétrica,Manutenção programada,19
+887,COLH-028,Colhedora,Corretiva,4,2024-02-17,2024-03-08,Em execução,4.92,4779.35,5080.85,Elétrica,Falha inesperada,20
+888,COLH-042,Colhedora,Corretiva,4,2024-11-21,2024-12-06,Concluída,6.54,2039.35,900.25,Mecânica,Falha inesperada,15
+889,COLH-022,Colhedora,Corretiva,2,2024-08-20,2024-08-29,Concluída,10.69,5530.02,5465.240000000001,Hidráulica,Falha inesperada,9
+890,COLH-021,Colhedora,Preventiva,3,2024-04-09,2024-04-29,Aberta,3.29,8101.07,7623.96,Elétrica,Manutenção programada,20
+891,COLH-006,Colhedora,Preventiva,3,2024-02-28,2024-03-09,Concluída,3.94,4634.15,5620.299999999999,Hidráulica,Manutenção programada,10
+892,COLH-001,Colhedora,Preventiva,4,2024-09-14,2024-09-26,Concluída,4.24,4733.23,3647.1099999999997,Elétrica,Manutenção programada,12
+893,COLH-005,Colhedora,Preventiva,4,2024-03-05,2024-03-26,Em execução,3.33,3691.05,5502.51,Mecânica,Manutenção programada,21
+894,COLH-041,Colhedora,Preventiva,1,2024-03-23,2024-04-15,Concluída,3.14,5722.03,6573.95,Hidráulica,Manutenção programada,23
+895,COLH-012,Colhedora,Corretiva,3,2024-06-02,2024-06-22,Aberta,5.08,3993.52,3450.46,Elétrica,Falha inesperada,20
+896,COLH-026,Colhedora,Corretiva,2,2024-09-22,2024-09-23,Concluída,13.96,6532.25,7653.39,Elétrica,Falha inesperada,1
+897,COLH-046,Colhedora,Corretiva,3,2024-11-04,2024-11-29,Concluída,3.75,4013.63,4791.21,Elétrica,Falha inesperada,25
+898,COLH-034,Colhedora,Corretiva,1,2024-03-19,2024-04-08,Concluída,8.36,5512.69,5781.679999999999,Elétrica,Falha inesperada,20
+899,COLH-049,Colhedora,Preventiva,4,2024-11-10,2024-11-19,Concluída,3.83,4930.48,4653.3099999999995,Mecânica,Manutenção programada,9
+900,COLH-014,Colhedora,Corretiva,4,2024-05-29,2024-06-20,Concluída,10.54,7332.67,8070.8,Elétrica,Falha inesperada,22
+901,COLH-026,Colhedora,Corretiva,1,2024-02-17,2024-03-03,Concluída,4.53,5614.22,6012.56,Elétrica,Falha inesperada,15
+902,COLH-045,Colhedora,Corretiva,2,2024-09-04,2024-09-05,Em execução,6.74,7080.51,6829.12,Mecânica,Falha inesperada,1
+903,COLH-027,Colhedora,Corretiva,4,2024-10-04,2024-10-16,Concluída,5.6,5162.94,4388.339999999999,Elétrica,Falha inesperada,12
+904,COLH-009,Colhedora,Corretiva,5,2024-12-21,2024-12-24,Aberta,2.06,4743.89,4363.42,Hidráulica,Falha inesperada,3
+905,COLH-026,Colhedora,Corretiva,4,2024-04-07,2024-04-18,Concluída,8.39,4942.71,4840.07,Hidráulica,Falha inesperada,11
+906,COLH-047,Colhedora,Corretiva,5,2024-01-25,2024-01-27,Concluída,5.85,3842.89,5072.88,Elétrica,Falha inesperada,2
+907,COLH-022,Colhedora,Corretiva,1,2024-10-10,2024-10-26,Aberta,12.52,5797.5,6786.11,Mecânica,Falha inesperada,16
+908,COLH-047,Colhedora,Corretiva,1,2024-10-27,2024-11-05,Concluída,9.85,3964.46,3904.41,Mecânica,Falha inesperada,9
+909,COLH-030,Colhedora,Corretiva,4,2024-03-08,2024-03-23,Em execução,8.12,5168.69,5139.73,Mecânica,Falha inesperada,15
+910,COLH-043,Colhedora,Corretiva,3,2024-01-07,2024-01-19,Em execução,6.58,6282.8,7375.88,Elétrica,Falha inesperada,12
+911,COLH-048,Colhedora,Corretiva,5,2024-10-31,2024-11-01,Concluída,8.35,7375.32,7889.2,Elétrica,Falha inesperada,1
+912,COLH-017,Colhedora,Corretiva,2,2024-05-16,2024-05-29,Aberta,7.23,5244.29,5747.02,Hidráulica,Falha inesperada,13
+913,COLH-026,Colhedora,Preventiva,4,2024-06-12,2024-06-26,Em execução,3.07,6291.81,6029.110000000001,Mecânica,Manutenção programada,14
+914,COLH-036,Colhedora,Corretiva,2,2024-03-23,2024-04-17,Aberta,13.7,6112.83,6314.09,Elétrica,Falha inesperada,25
+915,COLH-001,Colhedora,Corretiva,4,2024-05-17,2024-06-11,Concluída,4.81,4426.43,4729.84,Elétrica,Falha inesperada,25
+916,COLH-008,Colhedora,Preventiva,3,2024-03-13,2024-03-21,Aberta,2.83,8161.71,8388.76,Elétrica,Manutenção programada,8
+917,COLH-049,Colhedora,Corretiva,3,2024-08-24,2024-09-01,Concluída,10.12,4135.64,5022.89,Mecânica,Falha inesperada,8
+918,COLH-035,Colhedora,Corretiva,3,2024-02-15,2024-03-13,Em execução,6.8,5136.49,6048.7699999999995,Mecânica,Falha inesperada,27
+919,COLH-015,Colhedora,Preventiva,3,2024-04-15,2024-04-27,Concluída,4.58,7181.18,6746.01,Hidráulica,Manutenção programada,12
+920,COLH-047,Colhedora,Corretiva,1,2024-10-14,2024-10-15,Concluída,10.04,7144.19,7044.0199999999995,Mecânica,Falha inesperada,1
+921,COLH-022,Colhedora,Corretiva,1,2024-09-18,2024-09-29,Em execução,5.84,5021.48,4771.58,Elétrica,Falha inesperada,11
+922,COLH-014,Colhedora,Preventiva,5,2024-06-24,2024-07-02,Concluída,3.2,6485.63,7896.45,Hidráulica,Manutenção programada,8
+923,COLH-026,Colhedora,Preventiva,2,2024-06-14,2024-06-24,Concluída,2.3,4664.04,6766.83,Mecânica,Manutenção programada,10
+924,COLH-028,Colhedora,Corretiva,4,2024-05-24,2024-06-12,Concluída,5.61,4266.98,4196.08,Mecânica,Falha inesperada,19
+925,COLH-023,Colhedora,Corretiva,4,2024-11-25,2024-12-06,Concluída,7.58,3180.82,3347.1400000000003,Mecânica,Falha inesperada,11
+926,COLH-014,Colhedora,Corretiva,1,2024-10-09,2024-10-16,Aberta,11.79,6085.82,7059.67,Mecânica,Falha inesperada,7
+927,COLH-024,Colhedora,Corretiva,4,2024-02-23,2024-03-05,Concluída,10.24,6243.83,5978.0599999999995,Elétrica,Falha inesperada,11
+928,COLH-002,Colhedora,Corretiva,1,2024-06-26,2024-07-13,Concluída,7.93,4148.17,5140.1,Mecânica,Falha inesperada,17
+929,COLH-045,Colhedora,Corretiva,5,2024-08-31,2024-09-01,Concluída,10.34,5402.15,5685.45,Elétrica,Falha inesperada,1
+930,COLH-026,Colhedora,Corretiva,2,2024-12-06,2025-01-01,Concluída,8.81,8976.48,7881.49,Elétrica,Falha inesperada,26
+931,COLH-014,Colhedora,Corretiva,5,2024-05-06,2024-06-04,Concluída,4.49,6720.02,5979.67,Elétrica,Falha inesperada,29
+932,COLH-007,Colhedora,Preventiva,3,2024-09-27,2024-10-18,Concluída,2.85,3647.77,3677.49,Hidráulica,Manutenção programada,21
+933,COLH-003,Colhedora,Preventiva,3,2024-05-11,2024-06-01,Em execução,2.93,6502.34,7780.7,Elétrica,Manutenção programada,21
+934,COLH-047,Colhedora,Corretiva,3,2024-04-02,2024-04-10,Aberta,10.29,3654.71,3240.6800000000003,Mecânica,Falha inesperada,8
+935,COLH-023,Colhedora,Corretiva,5,2024-03-13,2024-04-05,Em execução,6.3,657.17,529.89,Hidráulica,Falha inesperada,23
+936,COLH-046,Colhedora,Corretiva,4,2024-09-04,2024-09-28,Concluída,5.26,4969.38,5438.28,Mecânica,Falha inesperada,24
+937,COLH-043,Colhedora,Corretiva,2,2024-12-13,2024-12-19,Concluída,7.86,7344.8,6309.79,Elétrica,Falha inesperada,6
+938,COLH-047,Colhedora,Preventiva,3,2024-09-29,2024-10-21,Concluída,2.35,7096.17,7635.01,Mecânica,Manutenção programada,22
+939,COLH-045,Colhedora,Corretiva,3,2024-02-12,2024-03-01,Concluída,7.03,5565.85,4630.860000000001,Hidráulica,Falha inesperada,18
+940,COLH-018,Colhedora,Corretiva,3,2024-02-10,2024-02-16,Concluída,7.76,4187.41,4941.16,Hidráulica,Falha inesperada,6
+941,COLH-038,Colhedora,Corretiva,2,2024-06-18,2024-06-23,Concluída,6.85,5729.67,5382.65,Mecânica,Falha inesperada,5
+942,COLH-035,Colhedora,Corretiva,3,2024-07-30,2024-08-12,Concluída,10.89,4596.26,4142.62,Mecânica,Falha inesperada,13
+943,COLH-015,Colhedora,Corretiva,2,2024-06-16,2024-07-05,Concluída,12.24,4229.52,4747.76,Mecânica,Falha inesperada,19
+944,COLH-025,Colhedora,Corretiva,3,2024-02-08,2024-03-01,Concluída,10.59,6593.0,7528.1900000000005,Hidráulica,Falha inesperada,22
+945,COLH-037,Colhedora,Preventiva,5,2024-09-01,2024-09-09,Concluída,1.23,4210.95,4811.96,Elétrica,Manutenção programada,8
+946,COLH-028,Colhedora,Corretiva,5,2024-05-30,2024-06-08,Concluída,6.07,6690.85,7156.96,Mecânica,Falha inesperada,9
+947,COLH-010,Colhedora,Corretiva,2,2024-04-20,2024-05-07,Concluída,7.46,4111.72,4589.16,Elétrica,Falha inesperada,17
+948,COLH-039,Colhedora,Corretiva,5,2024-02-16,2024-02-19,Concluída,2.46,8087.74,8693.6,Hidráulica,Falha inesperada,3
+949,COLH-017,Colhedora,Corretiva,2,2024-03-03,2024-03-22,Concluída,5.37,2539.05,3197.48,Mecânica,Falha inesperada,19
+950,COLH-039,Colhedora,Preventiva,5,2024-08-12,2024-08-23,Concluída,2.81,3564.85,3549.43,Mecânica,Manutenção programada,11
+951,COLH-022,Colhedora,Corretiva,5,2024-03-09,2024-04-02,Em execução,6.65,4766.95,5590.55,Hidráulica,Falha inesperada,24
+952,COLH-026,Colhedora,Preventiva,2,2024-10-25,2024-11-11,Concluída,3.01,2023.93,1685.38,Mecânica,Manutenção programada,17
+953,COLH-044,Colhedora,Corretiva,4,2024-10-16,2024-11-06,Em execução,3.86,1143.52,2316.63,Elétrica,Falha inesperada,21
+954,COLH-025,Colhedora,Corretiva,5,2024-10-22,2024-11-10,Concluída,6.62,2036.89,2962.84,Hidráulica,Falha inesperada,19
+955,COLH-017,Colhedora,Corretiva,3,2024-07-21,2024-07-23,Concluída,8.46,4561.87,6606.59,Hidráulica,Falha inesperada,2
+956,COLH-013,Colhedora,Preventiva,4,2024-03-01,2024-03-09,Concluída,3.01,4599.93,5311.01,Mecânica,Manutenção programada,8
+957,COLH-020,Colhedora,Corretiva,2,2024-11-13,2024-12-02,Aberta,9.34,5499.5,6526.78,Hidráulica,Falha inesperada,19
+958,COLH-025,Colhedora,Corretiva,4,2024-11-09,2024-11-16,Concluída,9.17,4704.5,3756.07,Mecânica,Falha inesperada,7
+959,COLH-004,Colhedora,Preventiva,1,2024-06-09,2024-07-07,Concluída,2.59,5449.27,6502.63,Mecânica,Manutenção programada,28
+960,COLH-010,Colhedora,Corretiva,1,2024-11-26,2024-12-23,Em execução,8.36,4324.68,5565.84,Hidráulica,Falha inesperada,27
+961,COLH-003,Colhedora,Corretiva,5,2024-01-16,2024-02-02,Concluída,5.6,6072.22,7576.0,Mecânica,Falha inesperada,17
+962,COLH-041,Colhedora,Corretiva,5,2024-12-03,2024-12-09,Concluída,7.19,5891.47,6287.84,Elétrica,Falha inesperada,6
+963,COLH-045,Colhedora,Preventiva,3,2024-04-03,2024-04-22,Concluída,1.94,4509.96,4536.45,Elétrica,Manutenção programada,19
+964,COLH-018,Colhedora,Corretiva,4,2024-10-30,2024-11-23,Em execução,11.2,5799.52,5227.910000000001,Mecânica,Falha inesperada,24
+965,COLH-047,Colhedora,Preventiva,1,2024-05-17,2024-05-23,Concluída,2.73,4714.03,4215.599999999999,Elétrica,Manutenção programada,6
+966,COLH-036,Colhedora,Preventiva,5,2024-12-03,2024-12-31,Concluída,4.06,2716.51,2996.0200000000004,Mecânica,Manutenção programada,28
+967,COLH-047,Colhedora,Corretiva,4,2024-02-07,2024-02-09,Concluída,8.93,6356.74,5255.59,Elétrica,Falha inesperada,2
+968,COLH-022,Colhedora,Preventiva,5,2024-05-06,2024-05-12,Concluída,2.11,3639.78,3325.21,Hidráulica,Manutenção programada,6
+969,COLH-034,Colhedora,Corretiva,5,2024-10-01,2024-10-24,Em execução,8.75,6340.74,6712.36,Mecânica,Falha inesperada,23
+970,COLH-047,Colhedora,Corretiva,1,2024-06-12,2024-06-17,Aberta,10.43,5486.04,5839.8,Mecânica,Falha inesperada,5
+971,COLH-008,Colhedora,Preventiva,1,2024-11-14,2024-12-03,Em execução,2.92,4873.22,4397.700000000001,Mecânica,Manutenção programada,19
+972,COLH-040,Colhedora,Preventiva,5,2024-03-17,2024-04-06,Concluída,3.07,2184.51,1497.42,Mecânica,Manutenção programada,20
+973,COLH-049,Colhedora,Corretiva,2,2024-06-22,2024-06-26,Em execução,6.35,7309.62,6742.01,Mecânica,Falha inesperada,4
+974,COLH-044,Colhedora,Corretiva,5,2024-12-23,2025-01-14,Em execução,8.07,4455.33,4578.65,Mecânica,Falha inesperada,22
+975,COLH-019,Colhedora,Corretiva,5,2024-11-16,2024-12-12,Concluída,8.71,5951.85,7955.6900000000005,Hidráulica,Falha inesperada,26
+976,COLH-042,Colhedora,Corretiva,3,2024-03-31,2024-04-17,Aberta,6.26,4829.04,5977.3099999999995,Hidráulica,Falha inesperada,17
+977,COLH-041,Colhedora,Corretiva,3,2024-08-25,2024-09-05,Em execução,4.76,4592.85,5064.21,Elétrica,Falha inesperada,11
+978,COLH-037,Colhedora,Corretiva,3,2024-09-20,2024-09-24,Concluída,11.86,5289.21,6032.32,Mecânica,Falha inesperada,4
+979,COLH-006,Colhedora,Corretiva,2,2024-06-27,2024-07-23,Aberta,9.81,5039.86,6152.549999999999,Elétrica,Falha inesperada,26
+980,COLH-026,Colhedora,Corretiva,2,2024-07-27,2024-08-09,Concluída,6.36,4599.51,5440.0,Elétrica,Falha inesperada,13
+981,COLH-034,Colhedora,Corretiva,5,2024-03-13,2024-04-02,Concluída,8.66,4917.03,4970.46,Hidráulica,Falha inesperada,20
+982,COLH-045,Colhedora,Corretiva,3,2024-04-16,2024-05-12,Concluída,3.56,5640.6,5264.13,Elétrica,Falha inesperada,26
+983,COLH-006,Colhedora,Corretiva,2,2024-12-10,2024-12-27,Concluída,2.07,5746.73,5946.509999999999,Hidráulica,Falha inesperada,17
+984,COLH-037,Colhedora,Preventiva,1,2024-10-21,2024-10-30,Concluída,4.08,5065.04,6168.43,Elétrica,Manutenção programada,9
+985,COLH-033,Colhedora,Corretiva,5,2024-10-10,2024-10-14,Concluída,8.69,5931.41,6015.099999999999,Mecânica,Falha inesperada,4
+986,COLH-022,Colhedora,Preventiva,4,2024-12-18,2025-01-10,Concluída,2.95,4363.9,3780.16,Elétrica,Manutenção programada,23
+987,COLH-021,Colhedora,Preventiva,5,2024-06-30,2024-07-28,Concluída,3.23,8337.33,7258.57,Hidráulica,Manutenção programada,28
+988,COLH-006,Colhedora,Corretiva,4,2024-02-06,2024-02-20,Concluída,17.68,7228.38,7431.56,Hidráulica,Falha inesperada,14
+989,COLH-006,Colhedora,Preventiva,3,2024-05-16,2024-06-04,Concluída,3.87,6143.66,5623.15,Hidráulica,Manutenção programada,19
+990,COLH-048,Colhedora,Corretiva,4,2024-12-03,2024-12-29,Concluída,4.86,2087.63,2038.42,Elétrica,Falha inesperada,26
+991,COLH-004,Colhedora,Corretiva,3,2024-02-25,2024-03-24,Em execução,2.96,5909.03,7374.0199999999995,Elétrica,Falha inesperada,28
+992,COLH-030,Colhedora,Corretiva,1,2024-07-05,2024-07-08,Em execução,11.16,4495.04,4751.96,Hidráulica,Falha inesperada,3
+993,COLH-011,Colhedora,Corretiva,4,2024-12-06,2024-12-20,Aberta,10.57,3531.98,3231.61,Mecânica,Falha inesperada,14
+994,COLH-030,Colhedora,Corretiva,5,2024-09-14,2024-09-22,Concluída,9.73,4456.86,5003.86,Mecânica,Falha inesperada,8
+995,COLH-031,Colhedora,Corretiva,3,2024-02-27,2024-03-22,Concluída,5.56,3698.25,5535.01,Elétrica,Falha inesperada,24
+996,COLH-024,Colhedora,Corretiva,5,2024-12-28,2025-01-24,Concluída,9.09,5760.2,5963.639999999999,Elétrica,Falha inesperada,27
+997,COLH-009,Colhedora,Preventiva,2,2024-05-02,2024-05-30,Concluída,2.28,7423.99,5839.57,Hidráulica,Manutenção programada,28
+998,COLH-003,Colhedora,Corretiva,3,2024-07-06,2024-07-07,Concluída,9.99,6239.04,7059.1,Elétrica,Falha inesperada,1
+999,COLH-031,Colhedora,Preventiva,4,2024-08-17,2024-08-27,Em execução,3.98,9143.79,9720.93,Elétrica,Manutenção programada,10
+1000,COLH-040,Colhedora,Corretiva,3,2024-06-16,2024-07-04,Aberta,6.37,2669.58,3041.68,Hidráulica,Falha inesperada,18
