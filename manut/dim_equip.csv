@@ -1,0 +1,31 @@
+﻿equipment_id;equipment_type;fabricante;modelo;ano_fabricacao;serie;frota;data_aquisicao;capacidade;local_base
+H001;Colhedora de cana;Case IH;Cas-500;2017;H001-3278;Frota A;2016-08-17;Média capacidade;Fazenda Norte
+H002;Colhedora de cana;New Holland;New-267;2019;H002-4587;Frota A;2019-02-20;Alta capacidade;Fazenda Norte
+H003;Colhedora de cana;Valtra;Val-478;2019;H003-8492;Frota B;2018-12-28;Média capacidade;Fazenda Sul
+H004;Colhedora de cana;Valtra;Val-228;2016;H004-4318;Frota B;2016-01-20;Baixa capacidade;Fazenda Sul
+H005;Colhedora de cana;Case IH;Cas-206;2020;H005-5463;Frota B;2019-05-22;Alta capacidade;Fazenda Sul
+H006;Colhedora de cana;Valtra;Val-290;2016;H006-3408;Frota A;2016-05-21;Baixa capacidade;Fazenda Sul
+H007;Colhedora de cana;John Deere;Joh-358;2020;H007-2364;Frota B;2019-08-14;Baixa capacidade;Armazém Principal
+H008;Colhedora de cana;Valtra;Val-318;2019;H008-3255;Frota A;2018-01-05;Alta capacidade;Fazenda Central
+H009;Colhedora de cana;Valtra;Val-288;2024;H009-8655;Frota A;2023-11-26;Alta capacidade;Armazém Principal
+H010;Colhedora de cana;AGCO;AGC-327;2018;H010-6820;Frota B;2018-08-25;Alta capacidade;Fazenda Sul
+H011;Colhedora de cana;Valtra;Val-331;2021;H011-6597;Frota B;2021-11-14;Baixa capacidade;Fazenda Sul
+H012;Colhedora de cana;Case IH;Cas-275;2022;H012-9589;Frota B;2021-12-17;Média capacidade;Fazenda Norte
+H013;Colhedora de cana;AGCO;AGC-457;2022;H013-1744;Frota A;2021-02-09;Alta capacidade;Fazenda Norte
+H014;Colhedora de cana;AGCO;AGC-449;2024;H014-2254;Frota B;2022-05-04;Alta capacidade;Fazenda Norte
+H015;Colhedora de cana;Case IH;Cas-360;2023;H015-8852;Frota A;2021-07-08;Baixa capacidade;Fazenda Sul
+T001;Trator;New Holland;New-T163;2019;T001-6252;Frota B;2017-03-23;Alta capacidade;Fazenda Sul
+T002;Trator;Case IH;Cas-T79;2020;T002-3923;Frota A;2018-06-26;Média capacidade;Armazém Principal
+T003;Trator;AGCO;AGC-T75;2018;T003-9639;Frota A;2017-05-15;Média capacidade;Fazenda Norte
+T004;Trator;Valtra;Val-T81;2017;T004-8393;Frota A;2016-10-26;Alta capacidade;Fazenda Central
+T005;Trator;New Holland;New-T152;2018;T005-9757;Frota B;2017-11-12;Alta capacidade;Fazenda Norte
+T006;Trator;New Holland;New-T150;2019;T006-1105;Frota B;2019-10-06;Alta capacidade;Fazenda Norte
+T007;Trator;John Deere;Joh-T165;2017;T007-1383;Frota B;2016-04-03;Alta capacidade;Fazenda Sul
+T008;Trator;Case IH;Cas-T163;2024;T008-7401;Frota B;2024-03-08;Baixa capacidade;Fazenda Sul
+T009;Trator;Case IH;Cas-T173;2021;T009-8441;Frota A;2019-12-19;Média capacidade;Fazenda Central
+T010;Trator;Case IH;Cas-T77;2018;T010-6934;Frota B;2018-04-19;Alta capacidade;Fazenda Central
+T011;Trator;Case IH;Cas-T147;2017;T011-6832;Frota B;2017-04-07;Baixa capacidade;Fazenda Central
+T012;Trator;John Deere;Joh-T122;2016;T012-1531;Frota B;2016-02-24;Baixa capacidade;Fazenda Sul
+T013;Trator;Valtra;Val-T107;2018;T013-7352;Frota B;2016-01-27;Baixa capacidade;Fazenda Norte
+T014;Trator;John Deere;Joh-T77;2022;T014-4482;Frota A;2020-02-10;Média capacidade;Armazém Principal
+T015;Trator;Case IH;Cas-T200;2018;T015-1928;Frota B;2017-07-25;Baixa capacidade;Fazenda Norte
